@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1f6feb,100:6f42c1&height=190&section=header&text=Adam%20Ghanem&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%7C%20AI%20Security&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:0f172a,60:1f6feb,100:6f42c1&height=230&section=header&text=ADAM%20GHANEM&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20AI%20SECURITY&descAlignY=60&descSize=18" />
 
-# 👋 Hi, I'm Adam Ghanem
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=1100&pause=350&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Hi%2C+I'm+Adam+Ghanem;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+Threat+Hunting;%3E+Building+AI-powered+Cybersecurity+Labs" alt="Animated Header" />
 
-### DUT SIR Student | Cybersecurity & Networking | SOC Analyst in Progress 🇲🇦
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=DUT+SIR+Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+SIEM+%7C+Threat+Hunting;Networks+%7C+Linux+%7C+Python+%7C+C%2B%2B;Building+AI-powered+Cybersecurity+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=900&pause=250&color=8B5CF6&center=true&vCenter=true&width=950&lines=%5B+SYSTEM+ONLINE+%5D+DUT+SIR+Student+%7C+Cybersecurity+%26+Networking;%5B+SIGNAL+LOCKED+%5D+SIEM+%7C+Log+Analysis+%7C+Incident+Response;%5B+BUILD+MODE+%5D+Python+%7C+Linux+%7C+Networks+%7C+Detection+Engineering" alt="Cyber Subtitle" />
 
 <br/>
 
