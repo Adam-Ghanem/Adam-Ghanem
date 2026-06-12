@@ -30,6 +30,9 @@
   <a href="mailto:adam.ghanem.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-adam.ghanem.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/adam-ghanem-2326b9336/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Ghanem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://tryhackme.com/p/ADMiR4L" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-ADMiR4L-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
@@ -37,8 +40,6 @@
     <img src="https://img.shields.io/badge/GitHub-Adam--Ghanem-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-> LinkedIn badge will be added when you send/upload the CV or the LinkedIn URL.
 
 ---
 
