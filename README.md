@@ -47,46 +47,10 @@ Turning networks, logs and alerts into security visibility.
 ## 🚀 About Me
 
 - 🎓 DUT SIR student in **Sécurité Informatique et Réseaux**.
-- 🧱 Academic foundation in **C, Python, C++, operating systems, databases, cryptography, networks and cloud/virtualization**.
+- 🧱 Strong foundation in **C, Python, C++, Linux, databases, cryptography, networks and cloud/virtualization**.
 - 🛡️ Interested in **SOC analysis, SIEM, log analysis, threat hunting, detection engineering and incident response**.
 - 🤖 Building hands-on projects around **AI-powered alert triage, SOC automation and network security monitoring**.
 - 🧪 Practicing through **CTFs, TryHackMe labs and defensive cybersecurity scenarios**.
-
----
-
-## 🎓 Academic Background - DUT SIR
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### Core Computer Science
-- Algorithmique et Programmation en **C**
-- Structures de Données en **C**
-- Programmation en **Python**
-- Programmation Objet avec **C++**
-- Systèmes d’Information et Bases de Données
-- Big Data & Bases de données **NoSQL**
-
-</td>
-<td width="50%">
-
-### Cybersecurity & Networks
-- Réseaux Informatique
-- Administration des Réseaux
-- Réseaux Sans Fils
-- Sécurité Informatique
-- Cryptographie
-- Systèmes d’Exploitation
-- Cloud et Virtualisation
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -109,44 +73,34 @@ Turning networks, logs and alerts into security visibility.
 
 ---
 
-## 🧰 Practical Stack
+## 🧰 Skills & Tools I Use
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Programming
+### Programming & Automation
 <img src="https://skillicons.dev/icons?i=c,python,cpp,bash" />
 
 <br/>
 
-`C` · `Python` · `C++` · `Bash`
+`C` · `Python` · `C++` · `Bash` · `Automation`
 
-</td>
-<td align="center" width="33%">
+<br/><br/>
 
-### Systems & Networks
+### Systems, Networks & Virtualization
 <img src="https://skillicons.dev/icons?i=linux,windows,docker" />
 
 <br/>
 
-`Linux` · `Windows` · `Docker` · `Networking` · `Virtualization`
+`Linux` · `Windows` · `Networking` · `Wireless Networks` · `Cloud & Virtualization`
 
-</td>
-<td align="center" width="33%">
+<br/><br/>
 
-### Data & Workflow
+### Databases & Workflow
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 <br/>
 
 `SQL` · `NoSQL` · `Git` · `GitHub` · `VS Code`
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -156,32 +110,27 @@ Turning networks, logs and alerts into security visibility.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### Network & Traffic
+### Network & Traffic Analysis
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireless%20Security-1f6feb?style=for-the-badge" />
 
-</td>
-<td align="center" width="33%">
+<br/><br/>
 
-### SOC & Detection
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" />
+### SOC, Detection & Security Concepts
+<img src="https://img.shields.io/badge/SIEM-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Log%20Analysis-6f42c1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Threat%20Hunting-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Incident%20Response-238636?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cryptography-8b949e?style=for-the-badge" />
 
-</td>
-<td align="center" width="33%">
+<br/><br/>
 
-### Labs & Analysis
+### Labs & Platforms
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 <img src="https://img.shields.io/badge/CTF%20Labs-6f42c1?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
