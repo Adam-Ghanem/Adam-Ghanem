@@ -17,17 +17,30 @@
 
 ## 🧠 whoami
 
-<div align="center">
+```bash
+adam@github:~$ whoami
+Adam Ghanem
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=300&pause=70&color=00F5FF&background=0D111700&multiline=true&repeat=true&width=900&height=335&lines=%5BSYSTEM%5D+profile+interface+online;%5BOK%5D+identity+verified;%5BTRACE%5D+adam-gh.git%3A%2F%2Fprofile;;%E2%94%8C%E2%94%80%E2%94%80(adam%E3%89%BFgithub)-%5B~%2Fprofile%5D;%E2%94%94%E2%94%80%24+whoami;Adam+Ghanem;;role+++++++%3A+DUT+SIR+Student+-+Cybersecurity+%26+Networks;track++++++%3A+SOC+Analyst+%2F+Blue+Team+%2F+Detection+Engineering;location+++%3A+Morocco+%F0%9F%87%B2%F0%9F%87%A6;focus+++++%3A+SIEM+%7C+Threat+Hunting+%7C+Incident+Response+%7C+Network+Defense;building++%3A+AI+SOC+Copilot+%7C+Alert+Triage+Engine+%7C+Threat+Hunting+Labs;contact+++%3A+adam.ghanem.it%40gmail.com;;mission+++%3A+Turning+logs%2C+networks+and+alerts+into+security+visibility+%E2%96%88" alt="animated terminal" />
-
-</div>
+role      : DUT SIR Student - Cybersecurity & Networks
+track     : SOC Analyst / Blue Team / Detection Engineering
+location  : Morocco 🇲🇦
+focus     : SIEM | Threat Hunting | Incident Response | Network Defense
+building  : AI SOC Copilot | Alert Triage Engine | Threat Hunting Labs
+mission   : Turning logs, networks and alerts into security visibility
+```
 
 ---
 
 ## 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=900&pause=250&color=8B5CF6&width=900&lines=DUT+SIR+student+in+Cybersecurity+and+Networks;Focused+on+SOC%2C+SIEM%2C+Threat+Hunting+and+Incident+Response;Building+AI-powered+SOC+automation+and+network+security+labs;Practicing+with+CTFs%2C+TryHackMe+and+defensive+cybersecurity+scenarios" alt="animated about" />
+I am a **DUT SIR student specializing in Cybersecurity and Networks**, focused on SOC operations, SIEM, threat hunting, incident response, and network defense.
+
+I build practical cybersecurity labs that transform **logs, alerts, network traffic, and IoCs** into useful security visibility.
+
+- 🔎 Interested in SOC analysis, detection engineering, and incident response
+- 🧪 Practicing with CTFs, TryHackMe, defensive labs, and real-world network scenarios
+- 🤖 Building AI-powered tools for alert triage, log analysis, and investigation support
+- 🌐 Strong focus on networking, Linux, monitoring, and practical blue-team workflows
 
 ---
 
@@ -62,22 +75,38 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Security Projects
 
-| Project | Focus | What it Does |
+| Project | Category | Description |
 |---|---|---|
-| **AI SOC Copilot** | AI + SOC | Explains alerts, enriches IoCs and supports investigation workflow |
-| **Autonomous Alert Triage Engine** | Detection Engineering | Classifies, scores and prioritizes security alerts |
-| **Threat Hunting Lab Platform** | Threat Hunting | Provides logs, IoCs and hunting scenarios for practice |
-| **Attack Path Detection Engine** | Security Analysis | Maps possible attack paths and defensive control gaps |
-| **Cloud Security Posture Monitor** | Cloud Security | Detects risky configurations and posture weaknesses |
-| **NetWatch** | Network Monitoring | Tracks hosts, services and network visibility indicators |
+| **AI-SIEM-Threat-Detection** | AI + SOC | AI-powered platform for log analysis, alert scoring, and threat detection |
+| **CyberSentinel-WiFi-RedTeam** | Wi-Fi Security | Wireless audit toolkit with risk scoring, findings, and PDF/Markdown reports |
+| **SOC-Automation-Lab** | Blue Team | SOC playbooks, detection rules, alert triage scripts, and incident response workflows |
+| **OCP-SignalMap** | Network Mapping | Signal quality mapping dashboard with heatmaps, zone statistics, and PDF export |
+| **CTF-Writeups** | CTF Practice | Documented writeups, methodology, tools, and lessons learned from cybersecurity challenges |
+| **Network-Monitoring-Dashboard** | NOC/SOC | Dashboard for host/service visibility, uptime, latency, and network health indicators |
+
+---
+
+## 🏆 Achievements & Practice
+
+- Active TryHackMe learner focused on SOC, Blue Team, Linux, networking, and web security labs
+- CTF player with hands-on practice in web exploitation, forensics, cryptography, OSINT, and AI prompt hacking
+- Participated in cybersecurity competitions and defensive security challenges
+- Building practical projects around SIEM, log analysis, network monitoring, and AI-assisted security operations
+- Strong interest in documenting labs, investigation steps, findings, and security reports
 
 ---
 
 ## 🎯 Currently Building
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=750&pause=160&color=00F5FF&width=900&lines=%5B%2B%5D+AI-powered+SOC+investigation+assistant;%5B%2B%5D+Autonomous+alert+triage+and+enrichment+engine;%5B%2B%5D+Threat+hunting+labs+with+logs%2C+IoCs+and+reports;%5B%2B%5D+Network+monitoring+and+security+visibility+tools" alt="currently building" />
+```text
+[+] AI-powered SOC investigation assistant
+[+] Autonomous alert triage and enrichment engine
+[+] Threat hunting labs with logs, IoCs and reports
+[+] Network monitoring and security visibility tools
+[+] Clean GitHub portfolio with practical cybersecurity projects
+```
 
 ---
 
