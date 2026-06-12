@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=78&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1100&height=118&lines=Adam+Ghanem" alt="Adam Ghanem" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=80&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1100&height=120&lines=Adam+Ghanem" alt="Adam Ghanem" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=27&duration=2300&pause=900&color=FF3131&center=true&vCenter=true&width=1100&height=50&lines=%3E+Cybersecurity+%26+Networking+Student;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+Detection+Engineering" alt="animated red role" />
 
@@ -127,16 +127,6 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
 ## 🏆 Achievements & Practice
 
 - Active TryHackMe learner focused on SOC, Blue Team, Linux, networking, and web security labs
@@ -144,18 +134,6 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 - Participated in cybersecurity competitions and defensive security challenges
 - Building practical projects around SIEM, log analysis, network monitoring, and AI-assisted security operations
 - Strong interest in documenting labs, investigation steps, findings, and security reports
-
----
-
-## 🎯 Currently Building
-
-```text
-[+] AI-powered SOC investigation assistant
-[+] Autonomous alert triage and enrichment engine
-[+] Threat hunting labs with logs, IoCs and reports
-[+] Network monitoring and security visibility tools
-[+] Clean GitHub portfolio with practical cybersecurity projects
-```
 
 ---
 
@@ -169,6 +147,22 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 <p align="center">
   <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Adam-Ghanem&theme=tokyo-night&hide_border=true&area=true&custom_title=Cyber%20Contribution%20Grid" alt="GitHub Activity Graph" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🎯 Currently Building
+
+```text
+[+] AI-powered SOC investigation assistant
+[+] Autonomous alert triage and enrichment engine
+[+] Threat hunting labs with logs, IoCs and reports
+[+] Network monitoring and security visibility tools
+[+] Clean GitHub portfolio with practical cybersecurity projects
+```
 
 ---
 
