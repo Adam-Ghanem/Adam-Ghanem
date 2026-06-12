@@ -141,7 +141,9 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 <div align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ADMiR4L.png" alt="TryHackMe Badge" />
+<a href="https://tryhackme.com/p/ADMiR4L">
+  <img src="https://img.shields.io/badge/TryHackMe-ADMiR4L-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe ADMiR4L" />
+</a>
 
 <br/><br/>
 
