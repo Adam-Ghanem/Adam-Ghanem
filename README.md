@@ -127,6 +127,16 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
 ## 🏆 Achievements & Practice
 
 - Active TryHackMe learner focused on SOC, Blue Team, Linux, networking, and web security labs
