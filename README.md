@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1f6feb,100:7c3aed&height=170&section=header&text=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20%7C%20SIEM%20%7C%20Threat%20Hunting%20%7C%20Network%20Defense&descAlignY=60&descSize=14" alt="header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=72&duration=1800&pause=1600&color=00F5FF&center=true&vCenter=true&width=1100&height=120&lines=Adam+Ghanem" alt="typing name" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=64&duration=1800&pause=1600&color=00F5FF&center=true&vCenter=true&width=1000&height=105&lines=Adam+Ghanem" alt="typing name" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1f6feb,100:7c3aed&height=165&section=header&text=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20%7C%20SIEM%20%7C%20Threat%20Hunting%20%7C%20Network%20Defense&descAlignY=60&descSize=14" alt="header" />
 
 <br/>
 
