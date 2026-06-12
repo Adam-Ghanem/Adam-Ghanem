@@ -62,18 +62,25 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 ## 🛡️ Cybersecurity Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIEM-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-6f42c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Incident%20Response-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cryptography-8b949e?style=flat-square" />
-  <img src="https://img.shields.io/badge/CTF%20Labs-6f42c1?style=flat-square" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Packet%20Analysis-Wireshark-00F5FF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Recon-Nmap-00F5FF?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Web%20Security-Burp%20Suite-FF3131?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0D1117" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SOC-SIEM-FF3131?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Blue%20Team-Threat%20Hunting-00F5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Response-Incident%20Response-FF3131?style=for-the-badge&labelColor=0D1117" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-00F5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Security-Cryptography-FF3131?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Practice-CTF%20Labs-00F5FF?style=for-the-badge&labelColor=0D1117" />
+
+</div>
 
 ---
 
