@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=76&duration=1800&pause=1800&color=00F5FF&center=true&vCenter=true&width=1100&height=115&lines=Adam+Ghanem" alt="Adam Ghanem" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=78&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1100&height=118&lines=Adam+Ghanem" alt="Adam Ghanem" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2600&pause=1000&color=FF3131&center=true&vCenter=true&width=1100&height=48&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+Detection+Engineering" alt="animated red role" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=27&duration=2300&pause=900&color=FF3131&center=true&vCenter=true&width=1100&height=50&lines=%3E+Cybersecurity+%26+Networking+Student;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+Detection+Engineering" alt="animated red role" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=FF3131&center=true&vCenter=true&width=1100&height=38&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response;Network+Defense+%C2%B7+AI+Security+%C2%B7+Log+Analysis" alt="animated red focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FF3131&center=true&vCenter=true&width=1100&height=40&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response;Network+Defense+%C2%B7+AI+Security+%C2%B7+Log+Analysis;Turning+logs+and+alerts+into+security+visibility" alt="animated red focus" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Profile%20Views-54-1f6feb?style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=flat-square&color=7c3aed" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-00f5ff?style=flat-square" alt="focus" />
-<img src="https://img.shields.io/badge/Status-Building%20Labs-111827?style=flat-square" alt="status" />
+<img src="https://img.shields.io/badge/Profile%20Views-54-1f6feb?style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=7c3aed" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-00f5ff?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Status-Building%20Labs-111827?style=for-the-badge" alt="status" />
 
 </div>
 
