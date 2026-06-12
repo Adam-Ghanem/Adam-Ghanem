@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:111827,70:7f1d1d,100:dc2626&height=115&section=header&text=ADAM%20GHANEM&fontSize=46&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=SOC%20%7C%20BLUE%20TEAM%20%7C%20THREAT%20HUNTING&descAlignY=75&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:111827,70:7f1d1d,100:dc2626&height=115&section=header&text=ADAM%20GHANEM&fontSize=46&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=SOC%20%7C%20BLUE%20TEAM%20%7C%20THREAT%20HUNTING&descAlignY=75&descSize=16" />
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="animated cyber grid" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=520&pause=120&color=FF003C&center=true&vCenter=true&width=900&lines=%5BROOT%40SOC%5D+ACCESS+GRANTED;%3E+Adam+Ghanem+%7C+Cybersecurity+%26+Networks;%3E+SOC+Analyst+in+Progress;%3E+SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;%3E+Building+AI-powered+Cybersecurity+Labs" alt="Danger Header" />
 
