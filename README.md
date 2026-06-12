@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=72&duration=1800&pause=1600&color=00F5FF&center=true&vCenter=true&width=1100&height=110&lines=Adam+Ghanem" alt="typing name" />
 
-<h3>Cybersecurity & Networking Student | SOC Analyst in Progress</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=900&color=FF3131&center=true&vCenter=true&width=1000&height=45&lines=Cybersecurity+%26+Networking+Student+%7C+SOC+Analyst+in+Progress" alt="animated red role" />
 
-<p><b>SIEM</b> · <b>Threat Hunting</b> · <b>Incident Response</b> · <b>Network Defense</b> · <b>AI Security</b></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=700&color=FF3131&center=true&vCenter=true&width=1000&height=35&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response+%C2%B7+Network+Defense+%C2%B7+AI+Security" alt="animated red focus" />
 
 <img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=flat-square&color=7c3aed" alt="followers" />
