@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,35:0f172a,70:1f6feb,100:6f42c1&height=210&section=header&text=Adam%20Ghanem&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20AI%20Security&descAlignY=60&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=34&duration=650&pause=180&color=00F5FF&background=0D111700&center=true&vCenter=true&width=900&height=80&lines=%E2%9A%A1+Adam+Ghanem;%5B+SOC+ANALYST+IN+PROGRESS+%5D;%5B+CYBERSECURITY+%7C+NETWORKS+%7C+AI+SECURITY+%5D;%5B+BLUE+TEAM+%7C+SIEM+%7C+THREAT+HUNTING+%5D" alt="animated cyber header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=900&pause=250&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Cybersecurity+%26+Networking+Student;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+SIEM+%7C+Threat+Hunting;%3E+Building+AI-powered+Cybersecurity+Labs" alt="Animated Header" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=700&pause=180&color=8B5CF6&center=true&vCenter=true&width=950&lines=%5B+SYSTEM+ONLINE+%5D+Python+%7C+Linux+%7C+Networks;%5B+SIGNAL+LOCKED+%5D+Log+Analysis+%7C+Incident+Response;%5B+BUILD+MODE+%5D+SOC+Automation+%7C+Detection+Engineering" alt="Cyber Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=420&pause=100&color=8B5CF6&background=0D111700&center=true&vCenter=true&width=900&height=45&lines=%3E+Python+%7C+Linux+%7C+Networks+%7C+Detection+Engineering;%3E+Building+AI-powered+Cybersecurity+Labs;%3E+Learning+by+Building.+Defending+to+Protect." alt="animated subtitle" />
 
 <br/>
 
