@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-1f6feb?style=for-the-badge" alt="focus" />
 <img src="https://img.shields.io/badge/Status-Building%20Cyber%20Labs-111827?style=for-the-badge" alt="status" />
 
+<br/><br/>
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Adam-Ghanem&theme=tokyo-night&hide_border=true&area=true&custom_title=Cyber%20Contribution%20Grid" alt="animated contribution grid" />
+
 </div>
 
 ---
