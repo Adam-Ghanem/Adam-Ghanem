@@ -74,9 +74,22 @@ Turning logs, networks and alerts into security visibility.
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,cpp,mysql,html,css,js,vscode,windows,azure" />
-</p>
+<div align="center">
+
+### Core Languages & Scripting
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,js" />
+
+<br/><br/>
+
+### Systems, DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,azure" />
+
+<br/><br/>
+
+### Web, Data & Tools
+<img src="https://skillicons.dev/icons?i=html,css,mysql,vscode" />
+
+</div>
 
 ---
 
