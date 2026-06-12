@@ -4,15 +4,15 @@
 
 # 👋 Hi, I'm Adam Ghanem
 
-### Cybersecurity & Networking Student | SOC Analyst in Progress 🇲🇦
+### DUT SIR Student | Cybersecurity & Networking | SOC Analyst in Progress 🇲🇦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+SIEM+%7C+Threat+Hunting;Detection+Engineering;Building+AI-powered+Cybersecurity+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=DUT+SIR+Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+SIEM+%7C+Threat+Hunting;Networks+%7C+Linux+%7C+Python+%7C+C%2B%2B;Building+AI-powered+Cybersecurity+Projects" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=6f42c1" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-1f6feb?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-1f6feb?style=for-the-badge" alt="focus" />
 <img src="https://img.shields.io/badge/Status-Building%20Cyber%20Labs-238636?style=for-the-badge" alt="status" />
 
 </div>
@@ -28,9 +28,10 @@ Adam Ghanem
 
 ┌──(adam㉿github)-[~/profile]
 └─$ cat /etc/profile-info
-role        : Cybersecurity & Networking Student
+role        : DUT SIR Student - Cybersecurity & Networks
 track       : SOC Analyst / Blue Team / Detection Engineering
 location    : Morocco 🇲🇦
+foundation  : C | Python | C++ | Linux | Networks | Databases | Cloud
 focus       : SIEM | Threat Hunting | Incident Response | Network Defense
 building    : AI SOC Copilot | Alert Triage Engine | Threat Hunting Labs
 mindset     : Learn by building. Break to understand. Defend to protect.
@@ -38,18 +39,54 @@ contact     : adam.ghanem.it@gmail.com
 
 ┌──(adam㉿github)-[~/profile]
 └─$ ./mission.sh
-Turning logs, networks and alerts into security visibility.
+Turning networks, logs and alerts into security visibility.
 ```
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 DUT SIR student focused on **Cybersecurity, Networks and SOC operations**.
-- 🛡️ Interested in **SIEM, log analysis, threat hunting, detection engineering and incident response**.
+- 🎓 DUT SIR student in **Sécurité Informatique et Réseaux**.
+- 🧱 Academic foundation in **C, Python, C++, operating systems, databases, cryptography, networks and cloud/virtualization**.
+- 🛡️ Interested in **SOC analysis, SIEM, log analysis, threat hunting, detection engineering and incident response**.
 - 🤖 Building hands-on projects around **AI-powered alert triage, SOC automation and network security monitoring**.
 - 🧪 Practicing through **CTFs, TryHackMe labs and defensive cybersecurity scenarios**.
-- 🎯 Goal: grow into a strong **SOC / Detection Engineer** with real projects, clean reports and practical labs.
+
+---
+
+## 🎓 Academic Background - DUT SIR
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Core Computer Science
+- Algorithmique et Programmation en **C**
+- Structures de Données en **C**
+- Programmation en **Python**
+- Programmation Objet avec **C++**
+- Systèmes d’Information et Bases de Données
+- Big Data & Bases de données **NoSQL**
+
+</td>
+<td width="50%">
+
+### Cybersecurity & Networks
+- Réseaux Informatique
+- Administration des Réseaux
+- Réseaux Sans Fils
+- Sécurité Informatique
+- Cryptographie
+- Systèmes d’Exploitation
+- Cloud et Virtualisation
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -81,31 +118,31 @@ Turning logs, networks and alerts into security visibility.
 <td align="center" width="33%">
 
 ### Programming
-<img src="https://skillicons.dev/icons?i=python,bash,cpp" />
+<img src="https://skillicons.dev/icons?i=c,python,cpp,bash" />
 
 <br/>
 
-`Python` · `Bash` · `C++`
+`C` · `Python` · `C++` · `Bash`
 
 </td>
 <td align="center" width="33%">
 
-### Systems & Workflow
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker" />
+### Systems & Networks
+<img src="https://skillicons.dev/icons?i=linux,windows,docker" />
 
 <br/>
 
-`Linux` · `Windows` · `Git` · `GitHub` · `Docker`
+`Linux` · `Windows` · `Docker` · `Networking` · `Virtualization`
 
 </td>
 <td align="center" width="33%">
 
-### Data & Web Basics
-<img src="https://skillicons.dev/icons?i=mysql,html,css,vscode" />
+### Data & Workflow
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 <br/>
 
-`MySQL` · `HTML` · `CSS` · `VS Code`
+`SQL` · `NoSQL` · `Git` · `GitHub` · `VS Code`
 
 </td>
 </tr>
@@ -233,13 +270,14 @@ Network monitoring project for host visibility, service status and infrastructur
 
 ```mermaid
 graph LR
-A[Networking] --> B[Linux]
-B --> C[Python]
-C --> D[SOC Operations]
-D --> E[SIEM]
-E --> F[Threat Hunting]
-F --> G[Detection Engineering]
-G --> H[AI for Cybersecurity]
+A[Programming in C] --> B[Linux & Operating Systems]
+B --> C[Python Automation]
+C --> D[Computer Networks]
+D --> E[Network Administration]
+E --> F[Security & Cryptography]
+F --> G[SOC Operations]
+G --> H[Detection Engineering]
+H --> I[AI for Cybersecurity]
 ```
 
 ---
