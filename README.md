@@ -50,11 +50,20 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,cpp,bash,linux,windows,docker,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,cpp,bash,powershell,linux,kali,ubuntu,windows,docker,mysql,postgres,mongodb,fastapi,flask,html,css,js,git,github,githubactions,vscode,md" />
 
 <br/>
 
-`C` · `Python` · `C++` · `Bash` · `Linux` · `Windows` · `Docker` · `SQL/NoSQL` · `Git` · `GitHub` · `VS Code`
+`C` · `Python` · `C++` · `Bash` · `PowerShell` · `Linux` · `Kali` · `Ubuntu` · `Windows` · `Docker` · `MySQL` · `PostgreSQL` · `MongoDB` · `FastAPI` · `Flask` · `HTML/CSS/JS` · `Git` · `GitHub` · `GitHub Actions` · `VS Code` · `Markdown`
+
+<br/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 
 </div>
 
