@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=72&duration=1800&pause=1600&color=00F5FF&center=true&vCenter=true&width=1100&height=110&lines=Adam+Ghanem" alt="typing name" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=72&duration=1800&pause=1600&color=00F5FF&center=true&vCenter=true&width=1100&height=110&lines=%E2%96%BE+A+%E2%96%BE+d+%E2%96%BE+a+%E2%96%BE+m+%20+%E2%96%BE+G+%E2%96%BE+h+%E2%96%BE+a+%E2%96%BE+n+%E2%96%BE+e+%E2%96%BE+m;Adam+Ghanem" alt="falling letters name" />
 
 <h3>Cybersecurity & Networking Student | SOC Analyst in Progress</h3>
 
@@ -133,7 +133,7 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
     <img src="https://img.shields.io/badge/LinkedIn-Adam%20Ghanem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tryhackme.com/p/ADMiR4L" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-ADMiR4L-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-ADMiR4L-212C42?style=for-the-badge&logo=tryhackme" />
   </a>
   <a href="https://github.com/Adam-Ghanem" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Adam--Ghanem-100000?style=for-the-badge&logo=github&logoColor=white" />
