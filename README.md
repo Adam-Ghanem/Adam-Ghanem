@@ -73,66 +73,34 @@ Turning networks, logs and alerts into security visibility.
 
 ---
 
-## 🧰 Skills & Tools I Use
+## 🧰 Skills & Tools
 
 <div align="center">
 
-### Programming & Automation
-<img src="https://skillicons.dev/icons?i=c,python,cpp,bash" />
+<img src="https://skillicons.dev/icons?i=c,python,cpp,bash,linux,windows,docker,mysql,git,github,vscode" />
 
 <br/>
 
-`C` · `Python` · `C++` · `Bash` · `Automation`
-
-<br/><br/>
-
-### Systems, Networks & Virtualization
-<img src="https://skillicons.dev/icons?i=linux,windows,docker" />
-
-<br/>
-
-`Linux` · `Windows` · `Networking` · `Wireless Networks` · `Cloud & Virtualization`
-
-<br/><br/>
-
-### Databases & Workflow
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-
-<br/>
-
-`SQL` · `NoSQL` · `Git` · `GitHub` · `VS Code`
+`C` · `Python` · `C++` · `Bash` · `Linux` · `Windows` · `Docker` · `SQL/NoSQL` · `Git` · `GitHub` · `VS Code`
 
 </div>
 
 ---
 
-## 🛡️ Cybersecurity Toolkit
+## 🛡️ Cybersecurity Focus
 
-<div align="center">
-
-### Network & Traffic Analysis
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireless%20Security-1f6feb?style=for-the-badge" />
-
-<br/><br/>
-
-### SOC, Detection & Security Concepts
-<img src="https://img.shields.io/badge/SIEM-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Log%20Analysis-6f42c1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Threat%20Hunting-1f6feb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Incident%20Response-238636?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cryptography-8b949e?style=for-the-badge" />
-
-<br/><br/>
-
-### Labs & Platforms
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/CTF%20Labs-6f42c1?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident%20Response-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cryptography-8b949e?style=flat-square" />
+  <img src="https://img.shields.io/badge/CTF%20Labs-6f42c1?style=flat-square" />
+</p>
 
 ---
 
