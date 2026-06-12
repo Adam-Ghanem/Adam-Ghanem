@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1f6feb,100:7c3aed&height=155&section=header&text=Adam%20Ghanem&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descAlignY=58&descSize=16" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=800&pause=180&color=00F5FF&center=true&vCenter=true&width=900&height=45&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Building+AI-powered+Cybersecurity+Labs" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1600&pause=700&color=00F5FF&center=true&vCenter=true&width=900&height=45&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Building+AI-powered+Cybersecurity+Labs" alt="typing intro" />
 
 <br/>
 
