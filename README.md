@@ -21,26 +21,11 @@
 
 ## 🧠 whoami
 
-```bash
-┌──(adam㉿github)-[~/profile]
-└─$ whoami
-Adam Ghanem
+<div align="center">
 
-┌──(adam㉿github)-[~/profile]
-└─$ cat /etc/profile-info
-role        : DUT SIR Student - Cybersecurity & Networks
-track       : SOC Analyst / Blue Team / Detection Engineering
-location    : Morocco 🇲🇦
-foundation  : C | Python | C++ | Linux | Networks | Databases | Cloud
-focus       : SIEM | Threat Hunting | Incident Response | Network Defense
-building    : AI SOC Copilot | Alert Triage Engine | Threat Hunting Labs
-mindset     : Learn by building. Break to understand. Defend to protect.
-contact     : adam.ghanem.it@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1200&pause=350&color=58A6FF&background=161B2200&center=false&vCenter=false&multiline=true&repeat=true&width=900&height=260&lines=%E2%94%8C%E2%94%80%E2%94%80(adam%E3%89%BFgithub)-%5B~%2Fprofile%5D;%E2%94%94%E2%94%80%24+whoami;Adam+Ghanem;;%E2%94%8C%E2%94%80%E2%94%80(adam%E3%89%BFgithub)-%5B~%2Fprofile%5D;%E2%94%94%E2%94%80%24+cat+%2Fetc%2Fprofile-info;role++++++++%3A+DUT+SIR+Student+-+Cybersecurity+%26+Networks;track+++++++%3A+SOC+Analyst+%2F+Blue+Team+%2F+Detection+Engineering;location++++%3A+Morocco+%F0%9F%87%B2%F0%9F%87%A6;foundation++%3A+C+%7C+Python+%7C+C%2B%2B+%7C+Linux+%7C+Networks+%7C+Databases+%7C+Cloud;focus+++++++%3A+SIEM+%7C+Threat+Hunting+%7C+Incident+Response+%7C+Network+Defense;building++++%3A+AI+SOC+Copilot+%7C+Alert+Triage+Engine+%7C+Threat+Hunting+Labs;contact+++++%3A+adam.ghanem.it%40gmail.com;;%E2%94%8C%E2%94%80%E2%94%80(adam%E3%89%BFgithub)-%5B~%2Fprofile%5D;%E2%94%94%E2%94%80%24+.%2Fmission.sh;Turning+networks%2C+logs+and+alerts+into+security+visibility._" alt="animated terminal" />
 
-┌──(adam㉿github)-[~/profile]
-└─$ ./mission.sh
-Turning networks, logs and alerts into security visibility.
-```
+</div>
 
 ---
 
