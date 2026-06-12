@@ -17,15 +17,25 @@
 
 ---
 
-## 🧠 Whoami
+## 🧠 whoami
 
-```txt
-name        : Adam Ghanem
+```bash
+┌──(adam㉿github)-[~/profile]
+└─$ whoami
+Adam Ghanem
+
+┌──(adam㉿github)-[~/profile]
+└─$ cat /etc/profile-info
 role        : Cybersecurity & Networking Student
 track       : SOC Analyst / Blue Team
 location    : Morocco 🇲🇦
-interests   : SIEM, Threat Hunting, Incident Response, Network Security, AI for Cybersecurity
+focus       : SIEM | Threat Hunting | Incident Response | Network Security
+building    : AI-SIEM | Alert Triage Engine | WiFi Audit Tools | Log Analysis
 contact     : adam.ghanem.it@gmail.com
+
+┌──(adam㉿github)-[~/profile]
+└─$ echo "Always learning. Always building. Always securing."
+Always learning. Always building. Always securing.
 ```
 
 ---
