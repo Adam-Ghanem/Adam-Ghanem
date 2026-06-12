@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=72&duration=1800&pause=1600&color=00F5FF&center=true&vCenter=true&width=1100&height=110&lines=Adam+Ghanem" alt="typing name" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=76&duration=1800&pause=1800&color=00F5FF&center=true&vCenter=true&width=1100&height=115&lines=Adam+Ghanem" alt="Adam Ghanem" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=900&color=FF3131&center=true&vCenter=true&width=1000&height=45&lines=Cybersecurity+%26+Networking+Student+%7C+SOC+Analyst+in+Progress" alt="animated red role" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2600&pause=1000&color=FF3131&center=true&vCenter=true&width=1100&height=48&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+Detection+Engineering" alt="animated red role" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2300&pause=700&color=FF3131&center=true&vCenter=true&width=1000&height=35&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response+%C2%B7+Network+Defense+%C2%B7+AI+Security" alt="animated red focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=FF3131&center=true&vCenter=true&width=1100&height=38&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response;Network+Defense+%C2%B7+AI+Security+%C2%B7+Log+Analysis" alt="animated red focus" />
 
-<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=flat-square" alt="profile views" />
+<br/>
+
+<img src="https://img.shields.io/badge/Profile%20Views-54-1f6feb?style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=flat-square&color=7c3aed" alt="followers" />
 <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-00f5ff?style=flat-square" alt="focus" />
 <img src="https://img.shields.io/badge/Status-Building%20Labs-111827?style=flat-square" alt="status" />
