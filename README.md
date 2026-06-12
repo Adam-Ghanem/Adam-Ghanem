@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:0f172a,60:1f6feb,100:6f42c1&height=230&section=header&text=ADAM%20GHANEM&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20AI%20SECURITY&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:111827,70:7f1d1d,100:dc2626&height=115&section=header&text=ADAM%20GHANEM&fontSize=46&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=SOC%20%7C%20BLUE%20TEAM%20%7C%20THREAT%20HUNTING&descAlignY=75&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=1100&pause=350&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+Hi%2C+I'm+Adam+Ghanem;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+Threat+Hunting;%3E+Building+AI-powered+Cybersecurity+Labs" alt="Animated Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=520&pause=120&color=FF003C&center=true&vCenter=true&width=900&lines=%5BROOT%40SOC%5D+ACCESS+GRANTED;%3E+Adam+Ghanem+%7C+Cybersecurity+%26+Networks;%3E+SOC+Analyst+in+Progress;%3E+SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;%3E+Building+AI-powered+Cybersecurity+Labs" alt="Danger Header" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=900&pause=250&color=8B5CF6&center=true&vCenter=true&width=950&lines=%5B+SYSTEM+ONLINE+%5D+DUT+SIR+Student+%7C+Cybersecurity+%26+Networking;%5B+SIGNAL+LOCKED+%5D+SIEM+%7C+Log+Analysis+%7C+Incident+Response;%5B+BUILD+MODE+%5D+Python+%7C+Linux+%7C+Networks+%7C+Detection+Engineering" alt="Cyber Subtitle" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:ff003c,100:020617&height=4&section=footer" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=6f42c1" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-1f6feb?style=for-the-badge" alt="focus" />
-<img src="https://img.shields.io/badge/Status-Building%20Cyber%20Labs-238636?style=for-the-badge" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=dc2626&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=111827" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-dc2626?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Status-Building%20Cyber%20Labs-111827?style=for-the-badge" alt="status" />
 
 </div>
 
