@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=80&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1100&height=120&lines=Adam+Ghanem" alt="Adam Ghanem" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=80&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1300&height=120&lines=Adam+Ghanem" alt="Adam Ghanem" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=27&duration=2300&pause=900&color=FF3131&center=true&vCenter=true&width=1100&height=50&lines=%3E+Cybersecurity+%26+Networking+Student;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+Detection+Engineering" alt="animated red role" />
 
