@@ -192,3 +192,4 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1f6feb,100:7c3aed&height=90&section=footer" />
 
 </div>
+<!-- profile achievement refresh -->
