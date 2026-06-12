@@ -50,21 +50,38 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,cpp,bash,powershell,linux,kali,ubuntu,windows,docker,mysql,postgres,mongodb,fastapi,flask" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,githubactions,vscode,md" />
-
-<br/>
-
-`C` · `Python` · `C++` · `Bash` · `PowerShell` · `Linux` · `Kali` · `Ubuntu` · `Windows` · `Docker` · `MySQL` · `PostgreSQL` · `MongoDB` · `FastAPI` · `Flask`
-
-<br/>
-
-`HTML/CSS/JS` · `Git` · `GitHub` · `GitHub Actions` · `VS Code` · `Markdown`
-
-<br/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub><b>C</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br/><sub><b>Bash</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=powershell" width="48"/><br/><sub><b>PowerShell</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=kali" width="48"/><br/><sub><b>Kali</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br/><sub><b>Ubuntu</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=windows" width="48"/><br/><sub><b>Windows</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br/><sub><b>Flask</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub><b>HTML</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub><b>CSS</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/><sub><b>Actions</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=md" width="48"/><br/><sub><b>Markdown</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/><sub><b>SQLite</b></sub></td>
+</tr>
+</table>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=gnometerminal&logoColor=white" />
