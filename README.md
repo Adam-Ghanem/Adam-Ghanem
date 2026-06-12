@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1f6feb,100:7c3aed&height=185&section=header&text=Welcome%20to%20my%20GitHub&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team%20%7C%20AI%20Security&descAlignY=58&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1f6feb,100:7c3aed&height=170&section=header&text=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20%7C%20SIEM%20%7C%20Threat%20Hunting%20%7C%20Network%20Defense&descAlignY=60&descSize=14" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=46&duration=1700&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&height=75&lines=Adam+Ghanem" alt="typing name" />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&height=40&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Building+AI-powered+Cybersecurity+Labs" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=64&duration=1800&pause=1600&color=00F5FF&center=true&vCenter=true&width=1000&height=105&lines=Adam+Ghanem" alt="typing name" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&height=45&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Building+AI-powered+Cybersecurity+Labs" alt="typing intro" />
 
 <br/>
 
