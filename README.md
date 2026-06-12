@@ -1,17 +1,19 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1f6feb,100:6f42c1&height=190&section=header&text=Adam%20Ghanem&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%7C%20AI%20Security&descAlignY=55&descSize=18" />
+
 # 👋 Hi, I'm Adam Ghanem
 
 ### Cybersecurity & Networking Student | SOC Analyst in Progress 🇲🇦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+SIEM+%7C+Threat+Hunting;Python+Automation+for+Security;Building+AI-powered+Cybersecurity+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+SIEM+%7C+Threat+Hunting;Detection+Engineering;Building+AI-powered+Cybersecurity+Projects" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Blue%20Team%20%26%20SOC-1f6feb?style=for-the-badge" alt="focus" />
-<img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=for-the-badge" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=6f42c1" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-1f6feb?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Status-Building%20Cyber%20Labs-238636?style=for-the-badge" alt="status" />
 
 </div>
 
@@ -27,27 +29,27 @@ Adam Ghanem
 ┌──(adam㉿github)-[~/profile]
 └─$ cat /etc/profile-info
 role        : Cybersecurity & Networking Student
-track       : SOC Analyst / Blue Team
+track       : SOC Analyst / Blue Team / Detection Engineering
 location    : Morocco 🇲🇦
-focus       : SIEM | Threat Hunting | Incident Response | Network Security
-building    : AI-SIEM | Alert Triage Engine | WiFi Audit Tools | Log Analysis
+focus       : SIEM | Threat Hunting | Incident Response | Network Defense
+building    : AI SOC Copilot | Alert Triage Engine | Threat Hunting Labs
+mindset     : Learn by building. Break to understand. Defend to protect.
 contact     : adam.ghanem.it@gmail.com
 
 ┌──(adam㉿github)-[~/profile]
-└─$ echo "Always learning. Always building. Always securing."
-Always learning. Always building. Always securing.
+└─$ ./mission.sh
+Turning logs, networks and alerts into security visibility.
 ```
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 DUT SIR student — **Cybersecurity & Networks**
-- 🛡️ Focused on **SOC Analysis, SIEM, Threat Hunting, Network Defense and Incident Response**
-- 🤖 Building practical projects around **AI-SIEM, autonomous alert triage, WiFi security auditing and log analysis**
-- 🧠 Learning **Blue Team operations, detection engineering, Python automation and cloud security**
-- 🏆 Practicing through **CTFs, TryHackMe labs and real-world defensive security scenarios**
-- 🎯 Goal: become a strong **SOC / Detection Engineer** with real hands-on projects
+- 🎓 DUT SIR student focused on **Cybersecurity, Networks and SOC operations**.
+- 🛡️ Interested in **SIEM, log analysis, threat hunting, detection engineering and incident response**.
+- 🤖 Building hands-on projects around **AI-powered alert triage, SOC automation and network security monitoring**.
+- 🧪 Practicing through **CTFs, TryHackMe labs and defensive cybersecurity scenarios**.
+- 🎯 Goal: grow into a strong **SOC / Detection Engineer** with real projects, clean reports and practical labs.
 
 ---
 
@@ -78,7 +80,7 @@ Always learning. Always building. Always securing.
 
 ---
 
-## 🛡️ Cybersecurity Arsenal
+## 🛡️ Cybersecurity Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -87,24 +89,103 @@ Always learning. Always building. Always securing.
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incident%20Response-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🔥 Featured Cybersecurity Projects
 
-| Project | Focus | Description |
-| --- | --- | --- |
-| **NetWatch** | Network Monitoring | Visibility, host/service monitoring and network status tracking. |
-| **ai-soc-copilot** | AI + SOC | AI-assisted SOC investigation, alert explanation and triage support. |
-| **autonomous-alert-triage-engine** | Detection Engineering | Automated security alert classification, enrichment and prioritization. |
-| **threat-hunting-lab-platform** | Threat Hunting | Lab platform for hunting scenarios, IoCs and detection validation. |
-| **attack-path-detection-engine** | Security Analysis | Attack path analysis and defensive detection logic. |
-| **cloud-security-posture-monitor** | Cloud Security | Monitoring cloud misconfigurations and security posture indicators. |
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI SOC Copilot
+AI-assisted SOC investigation workflow for alert explanation, IoC enrichment and analyst decision support.
+
+**Focus:** AI + SOC Automation  
+**Value:** Faster alert understanding and cleaner investigation notes
+
+</td>
+<td width="50%">
+
+### 🚨 Autonomous Alert Triage Engine
+Automated security alert classification, enrichment and priority scoring for SOC environments.
+
+**Focus:** Detection Engineering  
+**Value:** Reduces noise and helps analysts focus on important alerts
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕵️ Threat Hunting Lab Platform
+Hands-on lab platform for hunting scenarios, IoCs, logs and detection validation.
+
+**Focus:** Threat Hunting  
+**Value:** Turns theory into practical blue-team investigations
+
+</td>
+<td width="50%">
+
+### 🧭 Attack Path Detection Engine
+Maps possible attack paths and highlights defensive control gaps from security evidence.
+
+**Focus:** Security Analysis  
+**Value:** Improves visibility into risky paths and weak controls
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Security Posture Monitor
+Monitors cloud misconfigurations, exposed services and posture weaknesses.
+
+**Focus:** Cloud Security  
+**Value:** Helps detect risky configurations before they become incidents
+
+</td>
+<td width="50%">
+
+### 🌐 NetWatch
+Network monitoring project for host visibility, service status and infrastructure health tracking.
+
+**Focus:** Network Monitoring  
+**Value:** Builds a strong foundation for SOC visibility
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Currently Building
+
+```txt
+[+] AI-powered SOC investigation assistant
+[+] Autonomous alert triage and enrichment engine
+[+] Threat hunting labs with logs, IoCs and reports
+[+] Network monitoring and security visibility tools
+[+] Clean cybersecurity reports for portfolio projects
+```
+
+---
+
+## 🧩 Learning Roadmap
+
+```mermaid
+graph LR
+A[Networking] --> B[Linux]
+B --> C[Python]
+C --> D[SOC Operations]
+D --> E[SIEM]
+E --> F[Threat Hunting]
+F --> G[Detection Engineering]
+G --> H[AI for Cybersecurity]
+```
 
 ---
 
@@ -123,40 +204,26 @@ Always learning. Always building. Always securing.
   <img src="https://github-profile-trophy.vercel.app/?username=Adam-Ghanem&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
----
-
-## 🎯 Current Focus
-
-```txt
-Blue Team Operations  █████████░  90%
-SIEM & Log Analysis   ████████░░  80%
-Python Automation     ████████░░  80%
-Network Security      ████████░░  80%
-Threat Hunting        ███████░░░  70%
-Cloud Security        ██████░░░░  60%
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adam-Ghanem&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
-## 🧩 Learning Path
+## 🐍 Contribution Snake
 
-```mermaid
-graph LR
-A[Networking] --> B[Linux]
-B --> C[Python]
-C --> D[SOC Operations]
-D --> E[SIEM]
-E --> F[Threat Hunting]
-F --> G[Detection Engineering]
-G --> H[AI for Cybersecurity]
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> Note: the snake animation needs a GitHub Actions workflow to generate the SVG inside the `output` branch.
 
 ---
 
 <div align="center">
 
-### ⚡ Always learning. Always building. Always securing.
+### ⚡ Learning by building. Breaking to understand. Defending to protect.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f6feb&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1f6feb,100:6f42c1&height=120&section=footer" />
 
 </div>
