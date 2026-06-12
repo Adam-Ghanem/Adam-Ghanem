@@ -64,21 +64,28 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Packet%20Analysis-Wireshark-00F5FF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Recon-Nmap-00F5FF?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Web%20Security-Burp%20Suite-FF3131?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0D1117" />
+<table>
+<tr>
+<td align="center"><b>Network</b><br/><sub>Wireshark · Nmap</sub></td>
+<td align="center"><b>SOC</b><br/><sub>SIEM · Log Analysis</sub></td>
+<td align="center"><b>Blue Team</b><br/><sub>Threat Hunting · IR</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Web Security</b><br/><sub>Burp Suite · Testing</sub></td>
+<td align="center"><b>Frameworks</b><br/><sub>MITRE ATT&CK</sub></td>
+<td align="center"><b>Practice</b><br/><sub>CTF · Cryptography</sub></td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://img.shields.io/badge/SOC-SIEM-FF3131?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Blue%20Team-Threat%20Hunting-00F5FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Response-Incident%20Response-FF3131?style=for-the-badge&labelColor=0D1117" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-00F5FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Security-Cryptography-FF3131?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Practice-CTF%20Labs-00F5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=00F5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=gnometerminal&logoColor=00F5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF3131&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SIEM-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Threat%20Hunting-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Incident%20Response-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Cryptography-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CTF%20Labs-0D1117?style=flat-square&logoColor=white&labelColor=0D1117" />
 
 </div>
 
