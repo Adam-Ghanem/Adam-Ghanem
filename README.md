@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=34&duration=750&pause=250&color=00F5FF&background=0D111700&center=true&vCenter=true&width=900&height=80&lines=%E2%9A%A1+Adam+Ghanem;%5B+Cybersecurity+%26+Networking+Student+%5D;%5B+SOC+Analyst+in+Progress+%5D;%5B+Blue+Team+%7C+SIEM+%7C+Threat+Hunting+%5D" alt="animated cyber header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1f6feb,100:7c3aed&height=155&section=header&text=Adam%20Ghanem&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descAlignY=58&descSize=16" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=520&pause=160&color=8B5CF6&background=0D111700&center=true&vCenter=true&width=900&height=45&lines=%3E+Python+%7C+Linux+%7C+Networks+%7C+Detection+Engineering;%3E+Building+AI-powered+Cybersecurity+Labs;%3E+Learning+by+Building.+Defending+to+Protect." alt="animated subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=950&pause=260&color=00F5FF&center=true&vCenter=true&width=900&height=45&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;SIEM+%7C+Log+Analysis+%7C+Threat+Hunting;Building+AI-powered+Cybersecurity+Labs" alt="typing intro" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=6f42c1" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-1f6feb?style=for-the-badge" alt="focus" />
-<img src="https://img.shields.io/badge/Status-Building%20Cyber%20Labs-111827?style=for-the-badge" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=flat-square&color=7c3aed" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-00f5ff?style=flat-square" alt="focus" />
+<img src="https://img.shields.io/badge/Status-Building%20Labs-111827?style=flat-square" alt="status" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=320&pause=80&color=00F5FF&background=0D111700&multiline=true&repeat=true&width=900&height=360&lines=%5BSYSTEM+BOOT%5D+loading+profile...;%5BOK%5D+identity+module+online;%5BGLITCH%5D+0x4d-ADAM-GHANEM-0x9f;%E2%96%93%E2%96%92%E2%96%91+signal+locked+%3A+SOC%2FNETWORKS+%E2%96%91%E2%96%92%E2%96%93;;%E2%94%8C%E2%94%80%E2%94%80(adam%E3%89%BFgithub)-%5B~%2Fprofile%5D;%E2%94%94%E2%94%80%24+whoami;Adam+Ghanem;;role+++++++%3A+DUT+SIR+Student+-+Cybersecurity+%26+Networks;track++++++%3A+SOC+Analyst+%2F+Blue+Team+%2F+Detection+Engineering;location+++%3A+Morocco+%F0%9F%87%B2%F0%9F%87%A6;focus+++++%3A+SIEM+%7C+Threat+Hunting+%7C+Incident+Response+%7C+Network+Defense;building++%3A+AI+SOC+Copilot+%7C+Alert+Triage+Engine+%7C+Threat+Hunting+Labs;contact+++%3A+adam.ghanem.it%40gmail.com;;Turning+networks%2C+logs+and+alerts+into+security+visibility+%E2%96%88" alt="glitch terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=360&pause=90&color=00F5FF&background=0D111700&multiline=true&repeat=true&width=900&height=335&lines=%5BSYSTEM%5D+profile+interface+online;%5BOK%5D+identity+verified;%5BTRACE%5D+adam-gh.git%3A%2F%2Fprofile;;%E2%94%8C%E2%94%80%E2%94%80(adam%E3%89%BFgithub)-%5B~%2Fprofile%5D;%E2%94%94%E2%94%80%24+whoami;Adam+Ghanem;;role+++++++%3A+DUT+SIR+Student+-+Cybersecurity+%26+Networks;track++++++%3A+SOC+Analyst+%2F+Blue+Team+%2F+Detection+Engineering;location+++%3A+Morocco+%F0%9F%87%B2%F0%9F%87%A6;focus+++++%3A+SIEM+%7C+Threat+Hunting+%7C+Incident+Response+%7C+Network+Defense;building++%3A+AI+SOC+Copilot+%7C+Alert+Triage+Engine+%7C+Threat+Hunting+Labs;contact+++%3A+adam.ghanem.it%40gmail.com;;mission+++%3A+Turning+logs%2C+networks+and+alerts+into+security+visibility+%E2%96%88" alt="animated terminal" />
 
 </div>
 
@@ -86,7 +86,6 @@
 [+] Autonomous alert triage and enrichment engine
 [+] Threat hunting labs with logs, IoCs and reports
 [+] Network monitoring and security visibility tools
-[+] Clean cybersecurity reports for portfolio projects
 ```
 
 ---
@@ -126,5 +125,7 @@
 <div align="center">
 
 ### ⚡ Learning by building. Breaking to understand. Defending to protect.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1f6feb,100:7c3aed&height=90&section=footer" />
 
 </div>
