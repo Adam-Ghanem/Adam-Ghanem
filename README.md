@@ -137,41 +137,6 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 ---
 
-## 🏅 TryHackMe Milestones
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/ADMiR4L">
-  <img src="https://img.shields.io/badge/TryHackMe-ADMiR4L-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe ADMiR4L" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Blue%20Team-Investigations-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cyber%20Defense-Investigation%20Series-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AoC%20Side%20Quest-2024-00f5ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Advent%20of%20Cyber-Completed-ff3131?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CTF%20Practice-Epic%20Badges-f59e0b?style=for-the-badge" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center"><b>Investigations</b><br/><sub>Cyber Defense Investigation Series</sub></td>
-<td align="center"><b>Defrosted Five</b><br/><sub>AoC Side Quest 2024</sub></td>
-<td align="center"><b>SNOW/OFF</b><br/><sub>AoC 2023 Side Quest Challenges</sub></td>
-</tr>
-<tr>
-<td align="center"><b>The Return of the Yeti</b><br/><sub>AoC 2023 Side Quest Challenge</sub></td>
-<td align="center"><b>Christmas 2019</b><br/><sub>Christmas CTF participation</sub></td>
-<td align="center"><b>Advent of Cyber 3</b><br/><sub>Advent of Cyber completion</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -236,4 +201,3 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 <!-- verified paired contribution with second account -->
 <!-- pair contribution with ghanem-adam -->
 <!-- paired contribution with secstack-devv -->
-<!-- TryHackMe milestones -->
