@@ -72,22 +72,44 @@ Turning logs, networks and alerts into security visibility.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Practical Stack
 
 <div align="center">
 
-### Core Languages & Scripting
-<img src="https://skillicons.dev/icons?i=python,bash,cpp,js" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br/><br/>
+### Programming
+<img src="https://skillicons.dev/icons?i=python,bash,cpp" />
 
-### Systems, DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,azure" />
+<br/>
 
-<br/><br/>
+`Python` · `Bash` · `C++`
 
-### Web, Data & Tools
-<img src="https://skillicons.dev/icons?i=html,css,mysql,vscode" />
+</td>
+<td align="center" width="33%">
+
+### Systems & Workflow
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker" />
+
+<br/>
+
+`Linux` · `Windows` · `Git` · `GitHub` · `Docker`
+
+</td>
+<td align="center" width="33%">
+
+### Data & Web Basics
+<img src="https://skillicons.dev/icons?i=mysql,html,css,vscode" />
+
+<br/>
+
+`MySQL` · `HTML` · `CSS` · `VS Code`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -95,16 +117,36 @@ Turning logs, networks and alerts into security visibility.
 
 ## 🛡️ Cybersecurity Toolkit
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=for-the-badge" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Network & Traffic
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+### SOC & Detection
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=for-the-badge" />
+
+</td>
+<td align="center" width="33%">
+
+### Labs & Analysis
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/CTF%20Labs-6f42c1?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
