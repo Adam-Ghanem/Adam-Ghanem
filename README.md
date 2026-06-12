@@ -1,15 +1,32 @@
-<h1 align="center">Hi 👋, I'm Adam Ghanem</h1>
-<h3 align="center">Cybersecurity & Networking Student | SOC Analyst in Progress 🇲🇦</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+SIEM+%7C+Threat+Hunting;Python+Automation+for+Security;Building+AI-powered+Cybersecurity+Projects" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Adam Ghanem
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%26%20SOC-blue?style=for-the-badge" alt="focus" />
-</p>
+### Cybersecurity & Networking Student | SOC Analyst in Progress 🇲🇦
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Cybersecurity+%26+Networking+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+SIEM+%7C+Threat+Hunting;Python+Automation+for+Security;Building+AI-powered+Cybersecurity+Projects" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-Blue%20Team%20%26%20SOC-1f6feb?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=for-the-badge" alt="status" />
+
+</div>
+
+---
+
+## 🧠 Whoami
+
+```txt
+name        : Adam Ghanem
+role        : Cybersecurity & Networking Student
+track       : SOC Analyst / Blue Team
+location    : Morocco 🇲🇦
+interests   : SIEM, Threat Hunting, Incident Response, Network Security, AI for Cybersecurity
+contact     : adam.ghanem.it@gmail.com
+```
 
 ---
 
@@ -20,13 +37,13 @@
 - 🤖 Building practical projects around **AI-SIEM, autonomous alert triage, WiFi security auditing and log analysis**
 - 🧠 Learning **Blue Team operations, detection engineering, Python automation and cloud security**
 - 🏆 Practicing through **CTFs, TryHackMe labs and real-world defensive security scenarios**
-- 📫 Reach me at: **adam.ghanem.it@gmail.com**
+- 🎯 Goal: become a strong **SOC / Detection Engineer** with real hands-on projects
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:adam.ghanem.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-adam.ghanem.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -43,17 +60,17 @@
 
 ---
 
-## 🧰 Languages, Tools & Platforms
+## 🧰 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,cpp,mysql,html,css,js,vscode,windows,azure" />
 </p>
 
 ---
 
-## 🛡️ Cybersecurity Stack
+## 🛡️ Cybersecurity Arsenal
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
@@ -63,11 +80,12 @@
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Threat%20Hunting-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Incident%20Response-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-6f42c1?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Cybersecurity Projects
 
 | Project | Focus | Description |
 | --- | --- | --- |
@@ -92,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adam-Ghanem&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adam-Ghanem&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -110,6 +128,25 @@ Cloud Security        ██████░░░░  60%
 
 ---
 
-<p align="center">
-  <b>Always learning. Always building. Always securing.</b>
-</p>
+## 🧩 Learning Path
+
+```mermaid
+graph LR
+A[Networking] --> B[Linux]
+B --> C[Python]
+C --> D[SOC Operations]
+D --> E[SIEM]
+E --> F[Threat Hunting]
+F --> G[Detection Engineering]
+G --> H[AI for Cybersecurity]
+```
+
+---
+
+<div align="center">
+
+### ⚡ Always learning. Always building. Always securing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1f6feb&height=120&section=footer" />
+
+</div>
