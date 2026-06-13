@@ -27,8 +27,8 @@ role      : DUT SIR Student - Cybersecurity & Networks
 track     : SOC Analyst / Blue Team / Detection Engineering
 location  : Morocco 🇲🇦
 focus     : SIEM | Threat Hunting | Incident Response | Network Defense
-building  : AI SOC Copilot | Alert Triage Engine | Threat Hunting Labs
-mission   : Turning logs, networks and alerts into security visibility
+building  : AI SOC Copilot | Alert Triage Engine | Threat Hunting Labs | OCP-SignalMap
+mission   : Turning logs, network data and alerts into actionable security visibility
 ```
 
 ---
