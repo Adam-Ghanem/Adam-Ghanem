@@ -62,7 +62,6 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br/><sub><b>Ubuntu</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=windows" width="48"/><br/><sub><b>Windows</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub><b>Docker</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub><b>MySQL</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
@@ -70,9 +69,9 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/><sub><b>FastAPI</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br/><sub><b>Flask</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub><b>HTML</b></sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub><b>CSS</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub><b>CSS</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub><b>JavaScript</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub></td>
@@ -80,18 +79,14 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=md" width="48"/><br/><sub><b>Markdown</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center" width="90"><br/></td>
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=gnometerminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white" />
 
 </div>
 
@@ -110,6 +105,8 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Cryptography-8b949e?style=flat-square" />
   <img src="https://img.shields.io/badge/CTF%20Labs-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white" />
 </p>
 
 ---
