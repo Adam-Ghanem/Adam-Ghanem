@@ -116,14 +116,14 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 ## 🔥 Featured Security Projects
 
-| Project | Category | Description |
-|---|---|---|
-| **AI-SIEM-Threat-Detection** | AI + SOC | AI-powered platform for log analysis, alert scoring, and threat detection |
-| **CyberSentinel-WiFi-RedTeam** | Wi-Fi Security | Wireless audit toolkit with risk scoring, findings, and PDF/Markdown reports |
-| **SOC-Automation-Lab** | Blue Team | SOC playbooks, detection rules, alert triage scripts, and incident response workflows |
-| **OCP-SignalMap** | Network Mapping | Signal quality mapping dashboard with heatmaps, zone statistics, and PDF export |
-| **CTF-Writeups** | CTF Practice | Documented writeups, methodology, tools, and lessons learned from cybersecurity challenges |
-| **Network-Monitoring-Dashboard** | NOC/SOC | Dashboard for host/service visibility, uptime, latency, and network health indicators |
+| Project | Category | Status | Description |
+|---|---|---|---|
+| **[AI-SIEM](https://github.com/Adam-Ghanem/ai-siem)** | AI + SOC | Public repo | AI-powered platform for log analysis, alert scoring, and threat detection |
+| **[AI SOC Copilot](https://github.com/Adam-Ghanem/ai-soc-copilot)** | SOC Assistant | Public repo | AI-assisted investigation workflow for alert triage and SOC analysis |
+| **[Nexus Wireless](https://github.com/Adam-Ghanem/nexus-wireless)** | Wi-Fi Security | Public repo | Wireless audit toolkit with scanning workflow, risk scoring, and reporting |
+| **[Threat Hunting Lab Platform](https://github.com/Adam-Ghanem/threat-hunting-lab-platform)** | Blue Team | Public repo | Practical threat hunting labs with logs, IoCs, findings, and reports |
+| **OCP-SignalMap** | Network Mapping | In progress | Signal quality mapping dashboard with heatmaps, zone statistics, and PDF export |
+| **CTF Writeups** | CTF Practice | Coming soon | Documented writeups, methodology, tools, and lessons learned from cybersecurity challenges |
 
 ---
 
@@ -160,7 +160,7 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 [+] AI-powered SOC investigation assistant
 [+] Autonomous alert triage and enrichment engine
 [+] Threat hunting labs with logs, IoCs and reports
-[+] Network monitoring and security visibility tools
+[+] OCP-SignalMap for network signal visualization and reporting
 [+] Clean GitHub portfolio with practical cybersecurity projects
 ```
 
@@ -182,22 +182,3 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
     <img src="https://img.shields.io/badge/GitHub-Adam--Ghanem-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1000&pause=300&color=00F5FF&center=true&vCenter=true&width=900&lines=Learning+by+building.;Breaking+to+understand.;Defending+to+protect." alt="animated quote" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1f6feb,100:7c3aed&height=90&section=footer" />
-
-</div>
-
-<!-- profile achievement refresh -->
-<!-- profile docs polish 2 -->
-<!-- profile docs polish 3 -->
-<!-- co-authored update -->
-<!-- real paired contribution -->
-<!-- verified paired contribution with second account -->
-<!-- pair contribution with ghanem-adam -->
-<!-- paired contribution with secstack-devv -->
