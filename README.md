@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=27&duration=2300&pause=900&color=FF3131&center=true&vCenter=true&width=1100&height=50&lines=%3E+Cybersecurity+%26+Networking+Student;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+Detection+Engineering" alt="animated red role" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FF3131&center=true&vCenter=true&width=1100&height=40&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response;Network+Defense+%C2%B7+AI+Security+%C2%B7+Log+Analysis;Turning+logs+and+alerts+into+security+visibility" alt="animated red focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FF3131&center=true&vCenter=true&width=1100&height=40&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response;Network+Defense+%C2%B7+Monitoring+%C2%B7+Log+Analysis;Turning+logs+and+alerts+into+security+visibility" alt="animated red focus" />
 
 <br/>
 
@@ -27,7 +27,7 @@ role      : DUT SIR Student - Cybersecurity & Networks
 track     : SOC Analyst / Blue Team / Detection Engineering
 location  : Morocco 🇲🇦
 focus     : SIEM | Threat Hunting | Incident Response | Network Defense
-building  : AI SOC Copilot | Alert Triage Engine | Threat Hunting Labs | OCP-SignalMap
+building  : AI-SIEM | NetWatch | NetSentinel | OCP-SignalMap
 mission   : Turning logs, network data and alerts into actionable security visibility
 ```
 
@@ -41,7 +41,7 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 - 🔎 Interested in SOC analysis, detection engineering, and incident response
 - 🧪 Practicing with CTFs, TryHackMe, defensive labs, and real-world network scenarios
-- 🤖 Building AI-powered tools for alert triage, log analysis, and investigation support
+- 🧰 Building rule-based tools for alert triage, log analysis, and investigation support
 - 🌐 Strong focus on networking, Linux, monitoring, and practical blue-team workflows
 
 ---
@@ -115,21 +115,21 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 
 | Project | Category | Status | Description |
 |---|---|---|---|
-| **[AI-SIEM](https://github.com/Adam-Ghanem/ai-siem)** | AI + SOC | Public repo | AI-powered platform for log analysis, alert scoring, and threat detection |
-| **[AI SOC Copilot](https://github.com/Adam-Ghanem/ai-soc-copilot)** | SOC Assistant | Public repo | AI-assisted investigation workflow for alert triage and SOC analysis |
-| **[Nexus Wireless](https://github.com/Adam-Ghanem/nexus-wireless)** | Wi-Fi Security | Public repo | Wireless audit toolkit with scanning workflow, risk scoring, and reporting |
-| **[Threat Hunting Lab Platform](https://github.com/Adam-Ghanem/threat-hunting-lab-platform)** | Blue Team | Public repo | Practical threat hunting labs with logs, IoCs, findings, and reports |
-| **OCP-SignalMap** | Network Mapping | In progress | Signal quality mapping dashboard with heatmaps, zone statistics, and PDF export |
-| **CTF Writeups** | CTF Practice | Coming soon | Documented writeups, methodology, tools, and lessons learned from cybersecurity challenges |
+| **[AI-SIEM](https://github.com/Adam-Ghanem/ai-siem)** | SOC Engineering | Active | Log ingestion, deterministic detections, incident correlation, metrics, and a FastAPI dashboard |
+| **[AI SOC Copilot](https://github.com/Adam-Ghanem/ai-soc-copilot)** | SOC Automation | Active | Local rule-based alert triage, case grouping, and Markdown/JSON reporting |
+| **[NetWatch](https://github.com/Adam-Ghanem/NetWatch)** | Network Monitoring | Active | Local network inventory, service checks, risk scoring, and report export |
+| **[NetSentinel](https://github.com/Adam-Ghanem/NetSentinel)** | Network Security Lab | Prototype | Packet metadata parsing, YAML detections, SQLite persistence, and a Streamlit dashboard |
+| **[Cloud Security Posture Monitor](https://github.com/Adam-Ghanem/cloud-security-posture-monitor)** | Cloud Security | Prototype | Read-only AWS posture checks and a React findings dashboard |
+| **[OCP-SignalMap](https://github.com/Adam-Ghanem/OCP-SignalMap)** | Network Mapping | Active | Browser-based signal quality mapping, weak-zone analysis, and PDF export |
 
 ---
 
 ## 🏆 Achievements & Practice
 
 - Active TryHackMe learner focused on SOC, Blue Team, Linux, networking, and web security labs
-- CTF player with hands-on practice in web exploitation, forensics, cryptography, OSINT, and AI prompt hacking
+- CTF player with hands-on practice in web security, forensics, cryptography, and OSINT
 - Participated in cybersecurity competitions and defensive security challenges
-- Building practical projects around SIEM, log analysis, network monitoring, and AI-assisted security operations
+- Building practical projects around SIEM, log analysis, network monitoring, and analyst-controlled automation
 - Strong interest in documenting labs, investigation steps, findings, and security reports
 
 ---
@@ -154,11 +154,11 @@ I build practical cybersecurity labs that transform **logs, alerts, network traf
 ## 🎯 Currently Building
 
 ```text
-[+] AI-powered SOC investigation assistant
-[+] Autonomous alert triage and enrichment engine
-[+] Threat hunting labs with logs, IoCs and reports
-[+] OCP-SignalMap for network signal visualization and reporting
-[+] Clean GitHub portfolio with practical cybersecurity projects
+[+] AI-SIEM log ingestion, detections, incidents, and metrics
+[+] NetWatch network inventory and reporting workflow
+[+] NetSentinel packet metadata and detection lab
+[+] OCP-SignalMap network signal visualization and reporting
+[+] Cloud posture checks with read-only AWS APIs
 ```
 
 ---
