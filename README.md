@@ -22,26 +22,8 @@
 I build practical security tools for **SOC, detection engineering, and network defense**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/adam_ghanem_terminal.svg?v=terminal-expanded-1" width="100%" alt="Adam Ghanem ASCII portrait terminal with whoami prompt" />
+  <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/adam_ghanem_terminal.svg?v=profile-compact-1" width="100%" alt="Adam Ghanem ASCII portrait terminal with whoami prompt" />
 </p>
-
-## Selected work
-
-| Project | Focus | What it shows |
-|---|---|---|
-| [**AI-SIEM**](https://github.com/Adam-Ghanem/ai-siem) | SOC engineering | A local SOC lab with log ingestion, event normalization, SQLite storage, detection rules, MITRE ATT&CK mapping, alert correlation, incidents, metrics, and a FastAPI dashboard. |
-| [**NetWatch**](https://github.com/Adam-Ghanem/NetWatch) | Network visibility | A local-first dashboard for approved network discovery, device inventory, port reviews, traffic metadata, alert cases, and evidence-backed reports. |
-| [**RedPath**](https://github.com/Adam-Ghanem/RedPath) | Purple-team analysis | A safe synthetic Active Directory case file that connects weighted attack paths with ATT&CK coverage, evidence, findings, and remediation. [Live demo](https://redpath-sec.vercel.app) |
-| [**OCP-SignalMap**](https://github.com/Adam-Ghanem/OCP-SignalMap) | Network reporting | A work-in-progress project for signal mapping, heatmaps, zone statistics, and operational reports. |
-
-## Focus areas
-
-| Area | Current work |
-|---|---|
-| **Detection engineering** | Writing rules, mapping them to ATT&CK, and checking where detection coverage is missing. |
-| **SOC engineering** | Working on ingestion, normalization, alert correlation, triage, and investigation workflows. |
-| **Network defense** | Building tools for asset visibility, service review, traffic metadata, and operational reporting. |
-| **Purple-team work** | Connecting attack paths to evidence, detections, and practical remediation. |
 
 ## Tools
 
@@ -60,9 +42,7 @@ I build practical security tools for **SOC, detection engineering, and network d
 
 ## How I build
 
-I start with a clear security question, build a small working version, test it locally, and document what the result does and does not prove. For security tooling, I prefer synthetic data, bounded actions, explicit authorization, and honest limitations.
-
-I also learn through CTFs, TryHackMe, Linux and networking labs, web-security practice, forensics, cryptography, OSINT, and defensive-security exercises. When something is useful, I turn it into a note, a detection idea, or a small tool.
+I build locally, test safely, and document what each tool proves.
 
 ## GitHub activity
 
@@ -75,14 +55,9 @@ I also learn through CTFs, TryHackMe, Linux and networking labs, web-security pr
   <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Adam-Ghanem&theme=tokyo-night&hide_border=true&area=true&custom_title=Security%20Build%20Activity" alt="GitHub activity graph" />
 </p>
 
-## Currently building
+## Now
 
-```text
-[+] AI-SIEM: SOC investigation and alert triage
-[+] NetWatch: local network visibility and defensive review
-[+] RedPath: synthetic AD attack paths and detection coverage
-[+] Security labs with logs, IoCs, findings, and reports
-```
+Security labs, detection logic, and network visibility tools.
 
 <p align="center">
   <sub>Building practical security work, one useful project at a time.</sub>
