@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=7c3aed" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-00f5ff?style=for-the-badge" alt="focus" />
-<img src="https://img.shields.io/badge/Status-Building%20Labs-111827?style=for-the-badge" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=flat&color=7c3aed" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-00f5ff?style=flat" alt="focus" />
+<img src="https://img.shields.io/badge/Status-Building%20Labs-111827?style=flat" alt="status" />
 
 </div>
 
