@@ -24,7 +24,7 @@ I build security labs and small tools around **SOC work, detection engineering, 
 My current direction is practical blue-team engineering: collecting useful evidence, writing detections, connecting attack paths to defensive coverage, and making security data easier to review.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/adam_ghanem_terminal.svg" width="100%" alt="Animated macOS-style terminal showing ls, cat adam_ghanem.txt, and Adam Ghanem's JSON profile" />
+  <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/adam_ghanem_terminal.gif" width="100%" alt="Animated macOS-style terminal showing ls, cat adam_ghanem.txt, and Adam Ghanem's JSON profile" />
 </p>
 
 ## Selected work
