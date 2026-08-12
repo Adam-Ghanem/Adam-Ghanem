@@ -40,10 +40,6 @@ I build practical security tools for **SOC, detection engineering, and network d
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </p>
 
-## How I build
-
-I build locally, test safely, and document what each tool proves.
-
 ## GitHub activity
 
 <p align="center">
