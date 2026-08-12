@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
 <defs>
-  <clipPath id="round"><rect width="1000" height="500" rx="12"/></clipPath>
+  <clipPath id="round"><rect width="1000" height="560" rx="12"/></clipPath>
 </defs>
 <style>
   .bg { fill: #0d1117; }
@@ -23,13 +23,14 @@
   @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
 </style>
 <g clip-path="url(#round)">
-  <rect class="bg" width="1000" height="500"/>
+  <rect class="bg" width="1000" height="560"/>
   <rect class="bar" width="1000" height="38"/>
   <circle class="dot-r" cx="22" cy="19" r="6.5"/>
   <circle class="dot-y" cx="43" cy="19" r="6.5"/>
   <circle class="dot-g" cx="64" cy="19" r="6.5"/>
   <text class="title" x="500" y="24">ADMiR4L@github: ~$ ./portrait.sh</text>
 
+  <g transform="translate(0,38) scale(1,1.16) translate(0,-38)">
   <g transform="translate(8,0)">
     <text x="16" y="56.00" class="ascii-line" style="animation-delay:0.300s">                                               ..  .                                      </text>
     <text x="16" y="64.28" class="ascii-line" style="animation-delay:0.356s">                                        ..:--=+*+=+=-.                                    </text>
@@ -95,5 +96,6 @@
   </g>
 
   <text x="16" y="481" class="prompt"><tspan class="p-user">ADMiR4L@github</tspan><tspan class="p-sep">:</tspan><tspan class="p-path">~$</tspan> <tspan class="p-cmd">status</tspan></text>
+  </g>
 </g>
 </svg>
