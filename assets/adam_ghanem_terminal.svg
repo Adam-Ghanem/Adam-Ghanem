@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="421" height="444" viewBox="0 0 421 444">
+<defs>
+  <clipPath id="round"><rect width="421" height="444" rx="10"/></clipPath>
+</defs>
+<style>
+  .bg { fill: #0d1117; }
+  .bar { fill: #161b22; }
+  .dot-r { fill: #ff5f56; }
+  .dot-y { fill: #ffbd2e; }
+  .dot-g { fill: #27c93f; }
+  .title {
+    font-family: "SFMono-Regular","Consolas","Liberation Mono",monospace;
+    font-size: 11px; fill: #6e7681; text-anchor: middle;
+  }
+  .ascii-line {
+    font-family: "SFMono-Regular","Consolas","Liberation Mono",monospace;
+    font-size: 7.2px; fill: #8b98a5; white-space: pre;
+    opacity: 0; animation: fadein 0.3s ease-out forwards;
+  }
+  .prompt {
+    font-family: "SFMono-Regular","Consolas","Liberation Mono",monospace;
+    font-size: 11px; opacity: 0; animation: fadein 0.4s ease-out forwards;
+    animation-delay: 2.850s;
+  }
+  .p-user { fill: #7ee787; }
+  .p-sep { fill: #6e7681; }
+  .p-path { fill: #79c0ff; }
+  .p-cmd { fill: #c9d1d9; }
+  .p-name { fill: #ffffff; font-weight: 600; }
+  @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+</style>
+<g clip-path="url(#round)">
+  <rect class="bg" width="421" height="444"/>
+  <rect class="bar" width="421" height="34"/>
+  <circle class="dot-r" cx="20" cy="17" r="6"/>
+  <circle class="dot-y" cx="40" cy="17" r="6"/>
+  <circle class="dot-g" cx="60" cy="17" r="6"/>
+  <text class="title" x="210" y="21">adam@github: ~$ ./portrait.sh</text>
+  <text x="16" y="56.00" class="ascii-line" style="animation-delay:0.300s">                                               ..  .                                      </text>
+<text x="16" y="64.28" class="ascii-line" style="animation-delay:0.356s">                                        ..:--=+*+=+=-.                                    </text>
+<text x="16" y="72.56" class="ascii-line" style="animation-delay:0.412s">                                    :=+**########%%##**++=.                               </text>
+<text x="16" y="80.84" class="ascii-line" style="animation-delay:0.467s">                                ..-+#%%%%##%#####%%%%%%%##*:                              </text>
+<text x="16" y="89.12" class="ascii-line" style="animation-delay:0.523s">                              .:-*#%#%%%%%%###%%%#%%#%###%%%*+-:.                         </text>
+<text x="16" y="97.40" class="ascii-line" style="animation-delay:0.579s">                             .-*##%##%%%%%%##%%%%%%%%%%%%##%%%%#+=.                       </text>
+<text x="16" y="105.68" class="ascii-line" style="animation-delay:0.635s">                           .-*#%%%#%%###%%%%%%%%%%%%%%%%%%###%%%#*:                       </text>
+<text x="16" y="113.96" class="ascii-line" style="animation-delay:0.691s">                           -=#%%%%%%%##***##*###*####%%####%%%####=                       </text>
+<text x="16" y="122.24" class="ascii-line" style="animation-delay:0.747s">                            -#%%%%%%#*+=--::-==-=------===+*#%%#%*+:                      </text>
+<text x="16" y="130.52" class="ascii-line" style="animation-delay:0.802s">                            :##%%##**+-:::............::--===*%##+.                       </text>
+<text x="16" y="138.80" class="ascii-line" style="animation-delay:0.858s">                            .*###**+=-::........ ......::-----*##:                        </text>
+<text x="16" y="147.08" class="ascii-line" style="animation-delay:0.914s">                             -##*+=--:::...............::::---+#=                         </text>
+<text x="16" y="155.36" class="ascii-line" style="animation-delay:0.970s">                             .**+--::......  ............:::-:=*=                         </text>
+<text x="16" y="163.64" class="ascii-line" style="animation-delay:1.026s">                              =+-::-----:::...   ...:::----:::-+-                         </text>
+<text x="16" y="171.92" class="ascii-line" style="animation-delay:1.081s">                            ..-=::---::::--::....::-----:--=::-==:                        </text>
+<text x="16" y="180.20" class="ascii-line" style="animation-delay:1.137s">                           .----:::::--==--:::...:::------:::::---:                       </text>
+<text x="16" y="188.48" class="ascii-line" style="animation-delay:1.193s">                           :-:-:::::--:--::-:-:..:--::==:=-::::----                       </text>
+<text x="16" y="196.76" class="ascii-line" style="animation-delay:1.249s">                           :-:-::::..::..:::::...::::::::::::::---:                       </text>
+<text x="16" y="205.04" class="ascii-line" style="animation-delay:1.305s">                           .-:-::::.........::...::::.......:::---.                       </text>
+<text x="16" y="213.32" class="ascii-line" style="animation-delay:1.360s">                            :::-:::.........::....::.......:::--::                        </text>
+<text x="16" y="221.60" class="ascii-line" style="animation-delay:1.416s">                             .::::::.........::..:::......::::::.                         </text>
+<text x="16" y="229.88" class="ascii-line" style="animation-delay:1.472s">                                :-:::.......::..::::......::--.                           </text>
+<text x="16" y="238.16" class="ascii-line" style="animation-delay:1.528s">                                .:::::....::::..:::::...::::-:                            </text>
+<text x="16" y="246.44" class="ascii-line" style="animation-delay:1.584s">                                 ::::::::::--::------::::::::.                            </text>
+<text x="16" y="254.72" class="ascii-line" style="animation-delay:1.640s">                                  ::::::::---:::::---::::::::                             </text>
+<text x="16" y="263.00" class="ascii-line" style="animation-delay:1.695s">                                  :::::::::::::::::::::::::-.                             </text>
+<text x="16" y="271.28" class="ascii-line" style="animation-delay:1.751s">                                  .:::::::.........::::::---.                             </text>
+<text x="16" y="279.56" class="ascii-line" style="animation-delay:1.807s">                                  .::::::::.......::::--:::-.                             </text>
+<text x="16" y="287.84" class="ascii-line" style="animation-delay:1.863s">                                 .::::::--:::..:::::---:::::-:                            </text>
+<text x="16" y="296.12" class="ascii-line" style="animation-delay:1.919s">                              -=*+-::.:::-----------::::::::=##-                          </text>
+<text x="16" y="304.40" class="ascii-line" style="animation-delay:1.974s">                           :-#%%#--::...::::::::::::::::::::--*%#+:.                      </text>
+<text x="16" y="312.68" class="ascii-line" style="animation-delay:2.030s">                       :-+#%%%%%%=-::.........::::.......::-=-*%%@%%*=:                   </text>
+<text x="16" y="320.96" class="ascii-line" style="animation-delay:2.086s">                   :=*#%%@%%%%%%%#-:::...................::--+%%%%%%@@%#+-.               </text>
+<text x="16" y="329.24" class="ascii-line" style="animation-delay:2.142s">               .-+#%%%%%%%%%%%%%%%#-::.................::::-+%%%%%%%%%%%@@%#+-.           </text>
+<text x="16" y="337.52" class="ascii-line" style="animation-delay:2.198s">           .-+#%%%%%%%%%%%%%%%%%%%%%+-:.................::=#%%%%%%%%%%%%%%%@@%#*=:        </text>
+<text x="16" y="345.80" class="ascii-line" style="animation-delay:2.253s">       .-+#%%%%%%%%%%%%%%%%%%%%%%%%%%%#+=-:::..:..::::-+*%@@%%%%%%%%%%%%%%%%%%%@@%#*=:    </text>
+<text x="16" y="354.08" class="ascii-line" style="animation-delay:2.309s">   .-=*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##++-.-*##%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%@%%#+-.</text>
+<text x="16" y="362.36" class="ascii-line" style="animation-delay:2.365s">-=*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%= .. -#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%</text>
+<text x="16" y="370.64" class="ascii-line" style="animation-delay:2.421s">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%= .. -%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="16" y="378.92" class="ascii-line" style="animation-delay:2.477s">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#     #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="16" y="387.20" class="ascii-line" style="animation-delay:2.533s">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%- .. +%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="16" y="395.48" class="ascii-line" style="animation-delay:2.588s">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%:.:. -%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="16" y="403.76" class="ascii-line" style="animation-delay:2.644s">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#  .  -%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <text x="16" y="430.04" class="prompt"><tspan class="p-user">adam@github</tspan><tspan class="p-sep">:</tspan><tspan class="p-path">~$</tspan> <tspan class="p-cmd">whoami</tspan>  <tspan class="p-name">Adam Ghanem</tspan></text>
+</g>
+</svg>
