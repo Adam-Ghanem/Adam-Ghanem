@@ -23,15 +23,9 @@ I build security labs and small tools around **SOC work, detection engineering, 
 
 My current direction is practical blue-team engineering: collecting useful evidence, writing detections, connecting attack paths to defensive coverage, and making security data easier to review.
 
-```text
-adam@github:~$ whoami
-Adam Ghanem
-
-focus    : SOC | Detection Engineering | Network Defense
-interests: SIEM | Threat Hunting | Incident Response | Purple Team
-builds   : AI-SIEM | NetWatch | RedPath | Security Labs
-location : Morocco
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1500&pause=700&color=00F5A0&background=0D1117&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=235&lines=adam%40github%3A~%24+whoami;Adam+Ghanem;focus++++%3A+SOC+%7C+Detection+Engineering+%7C+Network+Defense;interests%3A+SIEM+%7C+Threat+Hunting+%7C+Incident+Response+%7C+Purple+Team;builds+++%3A+AI-SIEM+%7C+NetWatch+%7C+RedPath+%7C+Security+Labs;location+%3A+Morocco" alt="Animated terminal showing Adam Ghanem's cybersecurity focus" />
+</p>
 
 ## Selected work
 
