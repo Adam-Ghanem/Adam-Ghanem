@@ -7,6 +7,7 @@
 <p>
   <a href="https://github.com/Adam-Ghanem/ai-siem"><img src="https://img.shields.io/badge/Featured-AI--SIEM-00F5FF?style=for-the-badge&logo=github&logoColor=111827" alt="AI-SIEM" /></a>
   <a href="https://github.com/Adam-Ghanem/RedPath"><img src="https://img.shields.io/badge/Featured-RedPath-FF3131?style=for-the-badge&logo=github&logoColor=white" alt="RedPath" /></a>
+  <a href="https://github.com/Adam-Ghanem/NetWatch"><img src="https://img.shields.io/badge/Featured-NetWatch-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="NetWatch" /></a>
   <a href="https://redpath-sec.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="RedPath live demo" /></a>
 </p>
 
@@ -26,30 +27,31 @@ role      : Cybersecurity & Networks
 track     : SOC Analysis / Blue Team / Detection Engineering
 location  : Morocco
 focus     : SIEM | Threat Hunting | Incident Response | Network Defense
-building  : AI-SIEM | RedPath | Security Labs
-mission   : Turn logs, alerts, and network data into actionable security visibility
+building  : AI-SIEM | RedPath | NetWatch | Security Labs
+mission   : Make logs, alerts, and network data easier to understand
 ```
 
-I focus on **Cybersecurity and Networks**, building practical defensive-security projects. My work sits at the intersection of **SOC operations, detection engineering, threat hunting, incident response, network defense, and AI-assisted security workflows**.
+I build security labs and small tools around **SOC work, detection, networking, and incident response**. Most of my projects start with a simple question: how can I make logs, alerts, and investigations easier to understand?
 
 ## Current focus
 
-| Focus area | What I am practicing |
+| Focus area | What I am working on |
 |---|---|
-| **Detection engineering** | Translating security events into explainable rules, alerts, ATT&CK mappings, and coverage gaps. |
-| **SOC engineering** | Building practical workflows for ingestion, normalization, correlation, triage, metrics, and investigation. |
-| **Purple-team thinking** | Connecting attack paths to evidence, defensive coverage, remediation, and safe synthetic scenarios. |
-| **Security automation** | Using Python, APIs, and AI-assisted workflows to reduce repetitive analyst work. |
+| **Detection engineering** | Writing rules, mapping them to ATT&CK, and checking where coverage is missing. |
+| **SOC engineering** | Working on log ingestion, normalization, alert correlation, triage, and metrics. |
+| **Purple-team work** | Connecting attack paths to evidence, detections, and practical remediation. |
+| **Security automation** | Using Python and APIs to reduce repetitive analyst work. |
 
 ## Featured work
 
 | Project | Area | What it demonstrates |
 |---|---|---|
-| [**AI-SIEM**](https://github.com/Adam-Ghanem/ai-siem) | Defensive engineering | Real local log ingestion, event normalization, SQLite persistence, rule-based detections, MITRE ATT&CK coverage, alert correlation, incident workflows, explainable anomalies, metrics, API security, and a SOC dashboard. |
-| [**RedPath**](https://github.com/Adam-Ghanem/RedPath) | Purple team / attack-path analysis | A safe synthetic Active Directory case file that connects weighted exposure paths, ATT&CK-aligned detection coverage, evidence-backed findings, remediation, and a browser-based console. |
-| [**OCP-SignalMap**](https://github.com/Adam-Ghanem/OCP-SignalMap) | Network visibility | An in-progress signal-mapping and reporting project focused on heatmaps, zone statistics, and operational visibility. |
+| [**AI-SIEM**](https://github.com/Adam-Ghanem/ai-siem) | Defensive engineering | A local SOC lab that collects logs, stores events, runs detections, maps them to MITRE ATT&CK, and shows alerts and incidents in a dashboard. |
+| [**NetWatch**](https://github.com/Adam-Ghanem/NetWatch) | Network visibility | A local-first dashboard for approved network discovery, device inventory, port reviews, traffic metadata, alerts, and reports. |
+| [**RedPath**](https://github.com/Adam-Ghanem/RedPath) | Purple team / attack-path analysis | A safe synthetic Active Directory lab for exploring attack paths, detection coverage, evidence, and remediation. |
+| [**OCP-SignalMap**](https://github.com/Adam-Ghanem/OCP-SignalMap) | Network visibility | A work-in-progress dashboard for signal mapping, heatmaps, and reports. |
 
-> My projects are designed around **safe evaluation, explainable results, reproducible labs, and evidence-backed security decisions**.
+> I prefer projects that are safe to run, easy to understand, and useful for learning.
 
 ## Security toolkit
 
@@ -72,7 +74,7 @@ I focus on **Cybersecurity and Networks**, building practical defensive-security
 
 ## Learning in practice
 
-I learn by building and documenting: SOC labs, CTFs, TryHackMe rooms, Linux and networking exercises, web-security practice, forensics, cryptography, OSINT, and defensive security challenges. I am especially interested in turning each exercise into a reproducible note, detection idea, investigation workflow, or small tool.
+I learn by building things. I use TryHackMe, CTFs, Linux and networking labs, and defensive-security exercises to practice. When something is useful, I try to turn it into a note, a detection idea, or a small tool.
 
 ## GitHub pulse
 
@@ -89,6 +91,7 @@ I learn by building and documenting: SOC labs, CTFs, TryHackMe rooms, Linux and 
 
 ```text
 [+] AI-assisted SOC investigation and alert triage
+[+] NetWatch for local network visibility and defensive review
 [+] Threat-hunting labs with logs, IoCs, findings, and reports
 [+] Purple-team coverage for synthetic Active Directory attack paths
 [+] Network visibility and signal-quality reporting
