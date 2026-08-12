@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=64&duration=2200&pause=1400&color=00F5FF&center=true&vCenter=true&width=1100&height=100&lines=Adam+Ghanem" alt="Adam Ghanem" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=FF3131&center=true&vCenter=true&width=1100&height=48&lines=Cybersecurity+%26+Networks+Student;SOC+Analyst+in+Progress;Blue+Team+%7C+Detection+Engineering" alt="Cybersecurity and SOC focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=FF3131&center=true&vCenter=true&width=1100&height=48&lines=Cybersecurity+%26+Networks;SOC+Analyst+in+Progress;Blue+Team+%7C+Detection+Engineering" alt="Cybersecurity and SOC focus" />
 
 <p>
   <a href="https://github.com/Adam-Ghanem/ai-siem"><img src="https://img.shields.io/badge/Featured-AI--SIEM-00F5FF?style=for-the-badge&logo=github&logoColor=111827" alt="AI-SIEM" /></a>
@@ -22,7 +22,7 @@
 adam@github:~$ whoami
 Adam Ghanem
 
-role      : DUT SIR student — Cybersecurity & Networks
+role      : Cybersecurity & Networks
 track     : SOC Analysis / Blue Team / Detection Engineering
 location  : Morocco
 focus     : SIEM | Threat Hunting | Incident Response | Network Defense
@@ -30,7 +30,7 @@ building  : AI-SIEM | RedPath | Security Labs
 mission   : Turn logs, alerts, and network data into actionable security visibility
 ```
 
-I am a **Cybersecurity and Networks student** building practical defensive-security projects. My work sits at the intersection of **SOC operations, detection engineering, threat hunting, incident response, network defense, and AI-assisted security workflows**.
+I focus on **Cybersecurity and Networks**, building practical defensive-security projects. My work sits at the intersection of **SOC operations, detection engineering, threat hunting, incident response, network defense, and AI-assisted security workflows**.
 
 ## Current focus
 
