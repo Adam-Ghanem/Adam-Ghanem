@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="455" viewBox="0 0 1200 455" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="535" viewBox="0 0 1200 535" role="img" aria-labelledby="title desc">
   <title id="title">Animated terminal profile for Adam Ghanem</title>
-  <desc id="desc">A macOS-style terminal window where ADMiR4L lists adam_ghanem.txt and reads a JSON profile file.</desc>
+  <desc id="desc">A macOS-style terminal with Adam Ghanem's ASCII portrait on the left and a JSON profile file on the right.</desc>
   <defs>
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%">
       <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#020617" flood-opacity="0.52"/>
     </filter>
+    <linearGradient id="divider" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#334155" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#334155" stop-opacity="1"/>
+      <stop offset="0.85" stop-color="#334155" stop-opacity="1"/>
+      <stop offset="1" stop-color="#334155" stop-opacity="0"/>
+    </linearGradient>
   </defs>
 
-  <rect x="12" y="12" width="1176" height="431" rx="18" fill="#0d1117" filter="url(#shadow)"/>
+  <rect x="12" y="12" width="1176" height="511" rx="18" fill="#0d1117" filter="url(#shadow)"/>
   <rect x="12" y="12" width="1176" height="56" rx="18" fill="#181d26"/>
   <rect x="12" y="50" width="1176" height="18" fill="#181d26"/>
   <line x1="12" y1="68" x2="1188" y2="68" stroke="#242b36" stroke-width="2"/>
@@ -17,39 +23,53 @@
   <circle cx="103" cy="40" r="10" fill="#28c840"/>
   <text x="600" y="45" text-anchor="middle" fill="#7d8796" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="16">ADMiR4L — profile terminal</text>
 
-  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="21" font-weight="600">
-    <text x="45" y="112" fill="#00f5a0">ADMiR4L@github:~$ ls
+  <image href="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/adam_ascii_portrait.png" x="38" y="94" width="420" height="408" preserveAspectRatio="xMidYMid meet">
+    <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.06;1" dur="20s" repeatCount="indefinite"/>
+  </image>
+  <rect x="486" y="90" width="2" height="415" fill="url(#divider)"/>
+
+  <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="16" font-weight="600">
+    <text x="520" y="120" fill="#00f5a0">ADMiR4L@github:~$ ls
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="45" y="146" fill="#d1fae5">adam_ghanem.txt
+    <text x="520" y="149" fill="#d1fae5">adam_ghanem.txt
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.09;0.13;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="45" y="190" fill="#00f5a0">ADMiR4L@github:~$ cat adam_ghanem.txt
+    <text x="520" y="190" fill="#00f5a0">ADMiR4L@github:~$ cat adam_ghanem.txt
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.17;0.22;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="45" y="224" fill="#d1fae5">{
+    <text x="520" y="219" fill="#d1fae5">{
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.26;0.30;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="72" y="258" fill="#d1fae5">"name": "Adam Ghanem",
+    <text x="545" y="248" fill="#d1fae5">"name": "Adam Ghanem",
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.31;0.35;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="72" y="292" fill="#d1fae5">"focus": "SOC | Detection Engineering | Network Defense",
+    <text x="545" y="277" fill="#d1fae5">"focus": "SOC | Detection Engineering",
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.36;0.40;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="72" y="326" fill="#d1fae5">"interests": ["SIEM", "Threat Hunting", "Incident Response"],
+    <text x="545" y="306" fill="#d1fae5">"defense": "Network Defense | Blue Team",
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.41;0.45;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="72" y="360" fill="#d1fae5">"projects": ["AI-SIEM", "NetWatch", "RedPath"],
+    <text x="545" y="335" fill="#d1fae5">"interests": ["SIEM", "Threat Hunting",
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.46;0.50;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="72" y="394" fill="#d1fae5">"location": "Morocco"
+    <text x="545" y="364" fill="#d1fae5">              "Incident Response"],
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.51;0.55;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <text x="45" y="428" fill="#d1fae5">}
+    <text x="545" y="393" fill="#d1fae5">"projects": ["AI-SIEM", "NetWatch",
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.56;0.60;0.94;1" dur="20s" repeatCount="indefinite"/>
     </text>
-    <rect x="61" y="411" width="11" height="21" rx="1" fill="#00f5a0">
-      <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.60;0.68;0.72;0.76;0.80;0.84;1" dur="20s" repeatCount="indefinite"/>
+    <text x="545" y="422" fill="#d1fae5">             "RedPath"],
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.56;0.60;0.94;1" dur="20s" repeatCount="indefinite"/>
+    </text>
+    <text x="545" y="451" fill="#d1fae5">"location": "Morocco"
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.61;0.65;0.94;1" dur="20s" repeatCount="indefinite"/>
+    </text>
+    <text x="520" y="480" fill="#d1fae5">}
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.70;0.94;1" dur="20s" repeatCount="indefinite"/>
+    </text>
+    <rect x="534" y="463" width="9" height="19" rx="1" fill="#00f5a0">
+      <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.70;0.76;0.80;0.84;0.88;0.92;1" dur="20s" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>
