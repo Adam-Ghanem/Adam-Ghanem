@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Adam%20Ghanem&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20%7C%20SOC%20%7C%20Blue%20Team&descAlignY=64&descSize=18" alt="Adam Ghanem — Cybersecurity, SOC, and Blue Team" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=80&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1300&height=120&lines=Adam+Ghanem" alt="Adam Ghanem" />
 </p>
 
 <p align="center">
