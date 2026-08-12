@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+<title id="title">Adam Ghanem GitHub overview and repository languages</title>
+<desc id="desc">A self-contained static replacement for remote GitHub statistics cards.</desc>
+<style>
+  .mono { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .title { font-size: 18px; font-weight: 700; fill: #c9d1d9; }
+  .label { font-size: 12px; fill: #8b949e; }
+  .value { font-size: 23px; font-weight: 700; fill: #c9d1d9; }
+  .small { font-size: 13px; fill: #c9d1d9; }
+</style>
+<rect width="1000" height="210" rx="14" fill="#0d1117"/>
+<rect x="8" y="8" width="480" height="194" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="512" y="8" width="480" height="194" rx="12" fill="#161b22" stroke="#30363d"/>
+
+<g class="mono">
+  <text x="30" y="39" class="title">GitHub overview</text>
+  <line x1="30" y1="54" x2="466" y2="54" stroke="#30363d"/>
+  <text x="34" y="83" class="label">PUBLIC REPOS</text>
+  <text x="34" y="111" class="value">9</text>
+  <text x="178" y="83" class="label">FOLLOWERS</text>
+  <text x="178" y="111" class="value">4</text>
+  <text x="322" y="83" class="label">FOLLOWING</text>
+  <text x="322" y="111" class="value">50</text>
+  <line x1="30" y1="132" x2="466" y2="132" stroke="#30363d"/>
+  <circle cx="40" cy="160" r="5" fill="#7ee787"/>
+  <text x="56" y="165" class="small">9 public repositories</text>
+  <circle cx="234" cy="160" r="5" fill="#58a6ff"/>
+  <text x="250" y="165" class="small">7 total stars</text>
+
+  <text x="534" y="39" class="title">Repository languages</text>
+  <line x1="534" y1="54" x2="970" y2="54" stroke="#30363d"/>
+  <text x="534" y="78" class="label">DEFAULT LANGUAGES ACROSS 8 CODE REPOSITORIES</text>
+  <rect x="534" y="94" width="436" height="16" rx="8" fill="#21262d"/>
+  <rect x="534" y="94" width="327" height="16" rx="8" fill="#3572A5"/>
+  <rect x="861" y="94" width="54" height="16" fill="#3178c6"/>
+  <rect x="915" y="94" width="55" height="16" rx="8" fill="#e34c26"/>
+  <circle cx="542" cy="142" r="5" fill="#3572A5"/>
+  <text x="556" y="147" class="small">Python 75%</text>
+  <circle cx="684" cy="142" r="5" fill="#3178c6"/>
+  <text x="698" y="147" class="small">TypeScript 12.5%</text>
+  <circle cx="866" cy="142" r="5" fill="#e34c26"/>
+  <text x="880" y="147" class="small">HTML 12.5%</text>
+  <text x="534" y="180" class="label">Based on repository default-language metadata</text>
+</g>
+</svg>

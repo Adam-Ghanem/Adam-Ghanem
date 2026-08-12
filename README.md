@@ -43,8 +43,7 @@ I build practical security tools for **SOC, detection engineering, and network d
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adam-Ghanem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Ghanem&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="100%" src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/github_activity_cards.svg?v=static-cards-1" alt="GitHub overview and repository languages" />
 </p>
 
 <p align="center">
