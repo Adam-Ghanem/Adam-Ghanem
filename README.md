@@ -1,18 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=80&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1300&height=120&lines=Adam+Ghanem" alt="Adam Ghanem" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Adam-Ghanem/ai-siem"><img src="https://img.shields.io/badge/AI--SIEM-0f172a?style=for-the-badge&logo=github&logoColor=00e5ff" alt="AI-SIEM" /></a>
-  <a href="https://github.com/Adam-Ghanem/NetWatch"><img src="https://img.shields.io/badge/NetWatch-0f172a?style=for-the-badge&logo=github&logoColor=a78bfa" alt="NetWatch" /></a>
-  <a href="https://github.com/Adam-Ghanem/RedPath"><img src="https://img.shields.io/badge/RedPath-0f172a?style=for-the-badge&logo=github&logoColor=fb7185" alt="RedPath" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=80&duration=1700&pause=1800&color=00F5FF&center=true&vCenter=true&width=1300&height=120&lines=Adam+Ghanem" alt="Adam Ghanem" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adam-ghanem-2326b9336/"><img src="https://img.shields.io/badge/LinkedIn-Adam%20Ghanem-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/ADMiR4L"><img src="https://img.shields.io/badge/TryHackMe-ADMiR4L-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="mailto:adam.ghanem.it@gmail.com"><img src="https://img.shields.io/badge/Email-adam.ghanem.it%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=27&duration=2300&pause=900&color=FF3131&center=true&vCenter=true&width=1100&height=50&lines=%3E+Cybersecurity+%26+Networking+Student;%3E+SOC+Analyst+in+Progress;%3E+Blue+Team+%7C+Detection+Engineering" alt="animated red role" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FF3131&center=true&vCenter=true&width=1100&height=40&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response;Network+Defense+%C2%B7+AI+Security+%C2%B7+Log+Analysis;Turning+logs+and+alerts+into+security+visibility" alt="animated red focus" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Adam-Ghanem?label=Followers&style=for-the-badge&color=7c3aed" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Networks-00f5ff?style=for-the-badge" alt="focus" />
+<img src="https://img.shields.io/badge/Status-Building%20Labs-111827?style=for-the-badge" alt="status" />
+
+</div>
+
+---
 
 ## Profile
 
