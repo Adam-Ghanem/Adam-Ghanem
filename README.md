@@ -33,23 +33,6 @@ I’m **Adam Ghanem**, a DUT cybersecurity and networking student building pract
 | **AI-SIEM** | A defensive SOC engineering lab for local log ingestion, event normalization, detections, alert correlation, and analyst workflows. | [Repository](https://github.com/Adam-Ghanem/ai-siem) |
 | **RedPath** | A synthetic, safe-to-explore attack-path and detection-coverage console that connects evidence, gaps, and remediation. | [Repository](https://github.com/Adam-Ghanem/RedPath) · [Live demo](https://redpath-sec.vercel.app) |
 
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-Computer%20Vision%20Project-111827?style=for-the-badge" alt="YOLO computer vision project" />
-  <img src="https://img.shields.io/badge/Wraith-Security%20Platform-111827?style=for-the-badge" alt="Wraith security platform" />
-  <img src="https://img.shields.io/badge/ChessEngine-Engine%20Development-111827?style=for-the-badge" alt="ChessEngine project" />
-  <img src="https://img.shields.io/badge/OCP-Network%20%26%20Security%20Internship-111827?style=for-the-badge" alt="OCP network and security internship" />
-  <img src="https://img.shields.io/badge/TryHackMe-Security%20Labs-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe security labs" />
-  <img src="https://img.shields.io/badge/AI%20Security-Level%201-111827?style=for-the-badge" alt="AI Security Level 1" />
-</p>
-
-- 🔭 Building security tooling around **network visibility, SOC workflows, detection engineering, and AI security**
-- 🧠 Developing **YOLO/computer-vision** projects alongside cybersecurity work
-- ⚙️ Building and maintaining substantial engineering projects such as **Wraith** and **ChessEngine**
-- 🏢 Completed practical **network & security work at OCP Khouribga**
-- 🧪 Active hands-on security practice through **TryHackMe labs and CTF-style challenges**
-
 ## Tools & Technologies
 
 ### 🛡️ Security Operations & Defense
