@@ -40,7 +40,6 @@ I’m **Adam Ghanem**, a DUT cybersecurity and networking student building pract
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111827?style=for-the-badge" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/SIEM-111827?style=for-the-badge" alt="SIEM" />
   <img src="https://img.shields.io/badge/Threat%20Hunting-111827?style=for-the-badge" alt="Threat Hunting" />
   <img src="https://img.shields.io/badge/Incident%20Response-111827?style=for-the-badge" alt="Incident Response" />
@@ -51,11 +50,9 @@ I’m **Adam Ghanem**, a DUT cybersecurity and networking student building pract
 <p align="center">
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
   <img src="https://img.shields.io/badge/OpenLDAP-004F9F?style=for-the-badge" alt="OpenLDAP" />
   <img src="https://img.shields.io/badge/PRTG-00A4E4?style=for-the-badge" alt="PRTG" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 </p>
 
 ### 💻 Programming & Development
