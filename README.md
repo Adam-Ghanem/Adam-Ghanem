@@ -33,17 +33,6 @@ I’m **Adam Ghanem**, a DUT cybersecurity and networking student building pract
 | **AI-SIEM** | A defensive SOC engineering lab for local log ingestion, event normalization, detections, alert correlation, and analyst workflows. | [Repository](https://github.com/Adam-Ghanem/ai-siem) |
 | **RedPath** | A synthetic, safe-to-explore attack-path and detection-coverage console that connects evidence, gaps, and remediation. | [Repository](https://github.com/Adam-Ghanem/RedPath) · [Live demo](https://redpath-sec.vercel.app) |
 
-## GitHub snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adam-Ghanem&show_icons=true&hide_border=true&theme=tokyonight" alt="Adam Ghanem GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Adam-Ghanem&theme=tokyonight&hide_border=true" alt="Adam Ghanem GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Ghanem&layout=compact&hide_border=true&theme=tokyonight" alt="Adam Ghanem most used programming languages" />
-</p>
-
 ## Tools
 
 <p>
