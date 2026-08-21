@@ -59,16 +59,6 @@ I’m **Adam Ghanem**, a DUT cybersecurity and networking student building pract
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </p>
 
-## GitHub activity
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/github_activity_cards.svg?v=static-cards-1" alt="GitHub overview and repository languages" />
-</p>
-
-<p align="center">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Adam-Ghanem&theme=tokyo-night&hide_border=true&area=true&custom_title=Security%20Build%20Activity" alt="GitHub activity graph" />
-</p>
-
 ## Now
 
 Security labs, detection logic, and network visibility tools.
