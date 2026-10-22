@@ -33,6 +33,12 @@ I’m **Adam Ghanem**, a DUT cybersecurity and networking student building pract
 | **AI-SIEM** | A defensive SOC engineering lab for local log ingestion, event normalization, detections, alert correlation, and analyst workflows. | [Repository](https://github.com/Adam-Ghanem/ai-siem) |
 | **RedPath** | A synthetic, safe-to-explore attack-path and detection-coverage console that connects evidence, gaps, and remediation. | [Repository](https://github.com/Adam-Ghanem/RedPath) · [Live demo](https://redpath-sec.vercel.app) |
 
+## Recognition
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Adam-Ghanem/badge.svg)](https://hub.xerj.org/contributors/Adam-Ghanem)
+
+**NetWatch** was selected for the [XERJ Corpus Hub contributor programme](https://hub.xerj.org/contributors/Adam-Ghanem) on 10 October 2026, recognizing network-security/PCAP evidence work in [Adam-Ghanem/NetWatch](https://github.com/Adam-Ghanem/NetWatch). **Status: selected, licence review pending**; the corpus is not yet live or installable. This is project recognition, not a certification or independent security audit.
+
 ## Tools & Technologies
 
 ### 🛡️ Security Operations & Defense
