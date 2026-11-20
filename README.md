@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/iremcnar/eyeTutorial">
-    <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/eye_original_animation.gif" width="320" alt="Eye to Space animated ASCII eye" />
+    <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/eye_original_animation.gif" width="20" alt="Eye to Space animated ASCII eye" />
   </a>
 </p>
 
