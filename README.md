@@ -8,10 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/iremcnar/eyeTutorial">
-    <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/eye_original_animation.gif" width="100%" alt="Eye to Space: original ASCII eye animation, blinking then zooming through the pupil into a heart nebula" />
+    <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/eye_original_animation.gif" width="520" alt="Eye to Space animated ASCII eye" />
   </a>
-  <br/>
-  <sub>Eye → Space — original animation by <a href="https://github.com/iremcnar/eyeTutorial">iremcnar</a>; GIF rendered from the original Python project.</sub>
 </p>
 
 <br/>
