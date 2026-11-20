@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FF3131&center=true&vCenter=true&width=1100&height=40&lines=SIEM+%C2%B7+Threat+Hunting+%C2%B7+Incident+Response;Network+Defense+%C2%B7+AI+Security+%C2%B7+Log+Analysis;Turning+logs+and+alerts+into+security+visibility" alt="animated red focus" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adam-Ghanem/Adam-Ghanem/main/assets/eye_animation.svg" width="100%" alt="Animated ASCII eye blinking and watching" />
+</p>
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Adam-Ghanem&label=Profile%20Views&color=1f6feb&style=flat" alt="profile views" />
